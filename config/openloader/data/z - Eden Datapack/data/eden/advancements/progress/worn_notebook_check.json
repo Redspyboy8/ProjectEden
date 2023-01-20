@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "worn": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ars_nouveau:worn_notebook"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "worn"
+    ]
+  ]
+}

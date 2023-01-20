@@ -1,0 +1,14 @@
+{
+    "name": "Lost Treasure of The Ancients",
+    "icon": "byg:pendorite_sword",
+    "advancement": "apotheosis:affix/ancinet",
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:affix/ancient",
+            "text": "Uncover an item with an Ancient affix."
+        }
+    ]
+}

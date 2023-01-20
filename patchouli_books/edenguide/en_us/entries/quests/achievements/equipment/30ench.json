@@ -1,0 +1,13 @@
+{
+    "name": "Status Quo",
+    "icon": "malum:chunk_of_brilliance",
+    "advancement": "apotheosis:enchanting/enchanter",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/30ench",
+            "text": "Enchant an item at level 30 or higher."
+        }
+    ]
+}

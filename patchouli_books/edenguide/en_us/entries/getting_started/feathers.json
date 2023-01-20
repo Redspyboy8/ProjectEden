@@ -1,0 +1,27 @@
+{
+    "name": "Feathers",
+    "icon": "minecraft:feather",
+    "category": "patchouli:getting_started",
+    "sortnum": -8,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You may have noticed a bar of blue feathers above the hunger bar. Those are your Feathers! Feathers regenerate over time, and can be consumed by pressing R (by default) to perform a dodge. The number of feathers you have is dependent on armor weight. Typically, the bulkier the armor, the more it weighs and the less feathers you have."
+        
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:\"feathers:endurance_potion\"}",
+            "link_recipe": false,
+            "text": "Endurance gives extra feathers akin to absorption. Once they are used, they cannot be recovered. Can be brewed with Netherrite Nugget"
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:potion{Potion:\"feathers:energized_potion\"}",
+            "link_recipe": false,
+            "text": "Energized drastically increases the regeneration rate for feathers. Pairs greatly with heavier armor. Can be brewed with Electrum Nugget "
+        } 
+        
+
+    ]
+}

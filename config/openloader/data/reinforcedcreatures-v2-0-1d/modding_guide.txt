@@ -1,0 +1,78 @@
+## MOD GUIDE
+
+Here's a guide to modding/learning off this datapack. Make 
+sure you have read the pack license as well before modding
+as it covers what you can and cant do relating to modding.
+
+
+
+========= MAIN FOLDERS =========
+
+
+| data/1_splatus
+
+This is the main folder of the entire pack. 
+
+
+
+| data/1_splatus/functions
+
+Basically where all the code is stored, all
+the main stuff. This is literally what makes
+the datapack run. (Commands folder)
+
+
+
+
+
+
+| data/1_splatus/functions/creatures/[insertmobname]
+
+Each mob's own functions are stored in their folders
+
+
+
+| data/1_splatus/functions/creatures/other/commands/
+
+Also known as the "Common" folder for myself. These are 
+commands that can basically be run by any entity, including
+players! There's a folder inside thats has many of the mob
+attacks, which you yourself can use
+
+
+
+
+
+| data/minecraft
+
+Modifies Minecraft assets
+
+
+
+|
+
+
+
+events.mcfunction - 
+
+These files are the main mob folders. They 
+contain other branching functions related to the mob
+as well
+
+
+spawning.mcfunction - 
+
+Handle the spawning for each mob variant. If
+two variants use the same mob as a base chances
+are their spawning files are merged. Here
+is also where their chances of spawning are
+stored.
+
+
+
+setup.mcfunction files - 
+
+These run on every game tick, usually they 
+check for when a mob exists or when to spawn one
+
+

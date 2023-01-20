@@ -1,0 +1,16 @@
+{
+    "name": "The Final Showdown",
+    "icon": "minecraft:command_block",
+    "category": "patchouli:quests/achievements/storm",
+    "entry_color": "c01e96",
+    "priority": true,
+    "sortnum": -2,
+    "advancement": "witherstormmod:main/strong_grow_weak",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "witherstormmod:main/belly_of_the_beast",
+            "text": "Use an Ender Pearl when the Wither Storm has an opening and confront the Command Block."
+        }
+    ]
+}

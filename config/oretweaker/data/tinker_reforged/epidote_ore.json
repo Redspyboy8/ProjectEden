@@ -1,0 +1,25 @@
+{
+  "oreConfig": [
+    {
+      "ore": "tinkers_reforged:deepslate_epidote_ore",
+      "fillers": [
+        "minecraft:deepslate"
+      ],
+      "distribution": "TRIANGLE",
+      "minY": -32,
+      "maxY": 32,
+      "maxVeinSize": 5,
+      "spawnRate": 10.0,
+      "discardChanceOnAirExposure": 0.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OCEAN"
+        ]
+      }
+    }
+  ]
+}
+        
+      
+   

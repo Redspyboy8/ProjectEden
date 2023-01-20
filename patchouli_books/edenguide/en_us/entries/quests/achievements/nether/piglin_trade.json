@@ -1,0 +1,14 @@
+{
+    "name": "Oh, Shiny",
+    "icon": "minecraft:gold_ingot",
+    "category": "patchouli:quests/achievements/nether",
+    "entry_color": "FF0000",
+    "advancement": "minecraft:nether/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:nether/distract_piglin",
+            "text": "Trade with a Piglin using Gold or Blazing Quartz."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Nether Crops",
+    "icon": "nethersdelight:propelpearl",
+    "advancement": "minecraft:nether/root",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "nethersdelight:propelplant_cane",
+            "link_recipe": true,
+            "text": "Propelant cane can be found growing on Netherrack. A volatile plant, if these canes are broken by anything other than a sneaking player, they will explode. Can be cut for gunpowder."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "nethersdelight:propelpearl",
+            "link_recipe": true,
+            "text": "If you manage to avoid being blown up, Proplants may yield Propelpearls. These Propelpearls are actually edible, and are rather gelatinous."
+        }
+    ]
+}

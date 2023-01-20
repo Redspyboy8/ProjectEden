@@ -1,0 +1,14 @@
+{
+    "name": "Lunar Whale",
+    "icon": "minecraft:chorus_fruit",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/tame_end_whale",
+            "text": "Use Chorus fruit to tame an End whale. Use a saddle to hitch a ride."
+        }
+    ]
+}

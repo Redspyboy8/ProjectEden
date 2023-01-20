@@ -1,0 +1,13 @@
+{
+    "name": "Land of the Free",
+    "icon": "alexsmobs:falconry_glove",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_bald_eagle",
+            "text": "Tame a Bald Eagle."
+        }
+    ]
+}

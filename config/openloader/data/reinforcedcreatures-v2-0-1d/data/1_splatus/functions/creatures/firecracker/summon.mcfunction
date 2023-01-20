@@ -1,0 +1,1 @@
+summon pillager ~ ~ ~ {CustomName:'{"translate":"Firecracker"}',HandItems:[{id:"minecraft:crossbow",Count:1b},{id:"minecraft:firework_rocket",Count:64,tag:{CreaturesFirecrackerFirework:1}}],Tags:["creatures_firecracker"]}

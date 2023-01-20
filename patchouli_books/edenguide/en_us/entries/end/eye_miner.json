@@ -1,0 +1,19 @@
+{
+    "name": "Ancient's Armory",
+    "icon": "omnis:haunted_spell_blade",
+    "advancement": "eden:progress/adept_miner_check",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Ancient's Armory",
+            "text": " $(o)You notice that the Villagers have taken note of your mining prowess. You hear word that the Cartographer is looking for people like you. The village scouts have uncovered an Ancient Mine belonging to the ancient ones who sealed away The End. Great treasure is rumored to exist at the bottom, but no spelunker sent in has survived. You wonder what lies below.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/mine.png"],
+            "border": true
+        }
+    ]
+}

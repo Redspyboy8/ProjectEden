@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "cloth": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "majruszsdifficulty:cloth"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cloth"
+    ]
+  ]
+}

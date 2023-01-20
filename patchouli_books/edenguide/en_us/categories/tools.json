@@ -1,0 +1,6 @@
+{ 
+    "name": "Tools", 
+    "description": "Many more gadgets and tools are at your disposal.",
+    "icon": "supplementaries:wrench",
+    "sortnum": 2
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Undead's Ultimatum",
+    "icon": "undead_expansion:rotting_arm",
+    "advancement": "eden:progress/cloth_check",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Undead's Ultimatum",
+            "text": " $(o)You notice that the undead aren't too fond of you killing them (again). Suspicious undead denizens seem to be hovering around your base, almost as if they're studying it. You wonder what consequences await if you keep this up.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/undead.png"],
+            "border": true,
+            "text": "$(o)Be Prepared...$()"
+        }
+    ]
+}

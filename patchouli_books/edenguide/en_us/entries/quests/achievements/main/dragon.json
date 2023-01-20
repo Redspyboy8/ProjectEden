@@ -1,0 +1,15 @@
+{
+    "name": "End of The End",
+    "icon": "minecraft:end_stone",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": 0,
+    "advancement": "minecraft:end/kill_dragon",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:end/kill_dragon",
+            "text": "Defeat the Ender Dragon and Undo the curse."
+        }
+    ]
+}

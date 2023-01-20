@@ -1,0 +1,13 @@
+{
+    "name": "Elephant Petite",
+    "icon": "sprout:peanut",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "sprout:cutie_patootie",
+            "text": "Tame a cute elephant."
+        }
+    ]
+}

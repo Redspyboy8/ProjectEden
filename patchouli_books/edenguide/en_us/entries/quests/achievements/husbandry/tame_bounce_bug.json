@@ -1,0 +1,14 @@
+{
+    "name": "Bouncin' Around",
+    "icon": "sprout:bounce_bug_jar",
+    "category": "patchouli:quests/achievements/husbandry",
+    "entry_color": "FF0000",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/tame_bounce_bug",
+            "text": "Use a bottle to catch and tame a Bounce Bug."
+        }
+    ]
+}

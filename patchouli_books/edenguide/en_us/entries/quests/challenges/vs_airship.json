@@ -1,0 +1,11 @@
+{
+    "name": "Seven Skies",
+    "icon": "quark:bottled_cloud",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Use a Ship helm to build a ship that can take to the skies."
+        }
+    ]
+}

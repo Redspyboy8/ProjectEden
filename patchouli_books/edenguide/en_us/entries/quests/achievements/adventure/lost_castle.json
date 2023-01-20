@@ -1,0 +1,14 @@
+{
+    "name": "End Times",
+    "icon": "endrem:ancient_portal_frame",
+    "entry_color": "1F00FF",
+    "advancement": "eden:achievements/lost_castle",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/lost_castle",
+            "text": "Find the Lost Castle, the overtaken capital of the Ancients."
+        }
+    ]
+}

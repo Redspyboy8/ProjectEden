@@ -1,0 +1,7 @@
+{ 
+    "name": "End", 
+    "icon": "minecraft:end_stone",
+    "description": "...its about the journey",
+    "parent" : "patchouli:quests/achievements",
+    "sortnum": 2
+}

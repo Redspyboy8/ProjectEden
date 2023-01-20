@@ -1,0 +1,1 @@
+summon creeper ~ ~ ~ {CustomName:'{"translate":"Confetti Creeper"}',Tags:["creatures_creeper"],Attributes:[{Name:"minecraft:generic.max_health",Base:320.0d}],Health:320f,DeathLootTable:"1_splatus:creatures/entity/confetti_creeper",ActiveEffects:[{Id:27b,Duration:9999999,ShowParticles:false,Amplifier:43b}]}

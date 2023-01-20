@@ -1,0 +1,13 @@
+{
+    "name": "Mushroom Kingdom",
+    "icon": "cnb:sporeling_backpack",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/tame_sporeling",
+            "text": "Tame a Sporeling."
+        }
+    ]
+}

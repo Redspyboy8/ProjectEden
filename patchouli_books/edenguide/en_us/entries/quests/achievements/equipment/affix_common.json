@@ -1,0 +1,13 @@
+{
+    "name": "One Man's Trash",
+    "icon": "minecraft:wooden_sword",
+    "advancement": "apotheosis:affix/root",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:affix/common",
+            "text": "Obtain equipment with a Common Affix."
+        }
+    ]
+}

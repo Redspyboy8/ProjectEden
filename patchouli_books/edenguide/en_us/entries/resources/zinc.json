@@ -1,0 +1,20 @@
+{
+    "name": "Zinc",
+    "icon": "create:raw_zinc",
+    "category": "patchouli:resources",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "create:zinc_ingot",
+            "link_recipe": true,
+            "text": "Zinc is an fairly common ore that spawns at most y-levels. A versatile material, Zinc can be used to upgrade storage devices. It is said that Zinc can also be used to create an extremly useful alloy."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "title": "Storage Upgrades",
+            "recipe": "crafttweaker:backpackupgradebase",
+            "recipe2": "crafttweaker:storageupgradebase"
+        }
+    ]
+}

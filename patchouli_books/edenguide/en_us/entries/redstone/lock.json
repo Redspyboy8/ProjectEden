@@ -1,0 +1,26 @@
+{
+    "name": "Lock & Key",
+    "icon": "supplementaries:key",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:key",
+            "title": "Key",
+            "link_recipe": true,
+            "text": "Keys can be used to lock certain objects. The ID of a Key is dependent on its name. Keys can interract with items such as Safes, Lock Blocks, and Netherrite Doors."
+        }, 
+                {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:lock_block",
+            "title": "Lock Block",
+            "link_recipe": true,
+            "text": "Lock Blocks can be assigned a key, then will emit a redstone signal whenever the correct key is used on the block"
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "supplementaries:key",
+            "recipe2": "supplementaries:lock_block"
+        }
+    ]
+}

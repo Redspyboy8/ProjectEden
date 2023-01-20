@@ -1,0 +1,13 @@
+{
+    "name": "Snowcones?",
+    "icon": "cnb:yeti_hide",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/tame_yeti",
+            "text": "Earn the trust of a baby Yeti."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "No Way Home",
+    "icon": "minecraft:gold_block",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "repurposed_structures/ruined_portal_end",
+            "text": "Find a ruined nether portal in the End."
+        }
+    ]
+}

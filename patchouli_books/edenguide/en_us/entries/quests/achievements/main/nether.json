@@ -1,0 +1,14 @@
+{
+    "name": "Hell's Gate",
+    "icon": "minecraft:crying_obsidian",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "8ba811",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:nether/root",
+            "text": "Enter the Nether."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Abacus",
+    "icon": "quark:abacus",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:abacus",
+            "link_recipe": true,
+            "text": "An Abacus can be used to measure the distance between blocks. Useful when building."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/abacus",
+            "title": "Abacus"      
+        }
+    ]
+}

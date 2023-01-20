@@ -1,0 +1,14 @@
+{
+    "name": "Old Reliable",
+    "icon": "minecraft:stone_pickaxe",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "8ba811",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:story/upgrade_tools",
+            "text": "Craft or obtain a Stone Pickaxe."
+        }
+    ]
+}

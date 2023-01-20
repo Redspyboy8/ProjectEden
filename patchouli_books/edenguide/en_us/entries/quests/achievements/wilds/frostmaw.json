@@ -1,0 +1,12 @@
+{
+    "name": "Upsetti Yeti",
+    "icon": "mowziesmobs:ice_crystal",
+    "category": "patchouli:quests/achievements/wilds",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "mowziesmobs:steal_ice_crystal",
+            "text": "Steal an Ice Crystal from a Frostmaw."
+        }
+    ]
+}

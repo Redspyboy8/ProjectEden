@@ -1,0 +1,13 @@
+{
+    "name": "Magic Expert",
+    "icon": "tconstruct:ender_slime_grass_seeds",
+    "advancement": "apotheosis:enchanting/enchanter",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/arcana50",
+            "text": "Enchant an item at 50 Arcana"
+        }
+    ]
+}

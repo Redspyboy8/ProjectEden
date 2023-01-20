@@ -1,0 +1,15 @@
+{
+    "name": "Just like Romans!",
+    "icon": "oreganized:lead_ingot",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "advancement": "oreganized:story/eat_with_lead",
+    "secret": true,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "oreganized:story/eat_with_lead",
+            "text": "Eat while having lead in your inventory, then reap what you sow."
+        }
+    ]
+}

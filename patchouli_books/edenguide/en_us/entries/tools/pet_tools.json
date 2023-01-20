@@ -1,0 +1,58 @@
+{
+    "name": "Domestication Innovation",
+    "icon": "domesticationinnovation:collar_tag",
+    "category": "patchouli:tools",
+    "advancement": "minecraft:husbandry/tame_an_animal",
+    "priority": true,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There are a plethora of new tools and mechanics for you and your pets. In addition, a multidiude of new animals can be tamed through various methods."
+        
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "domesticationinnovation:pet_bed_white",
+            "link_recipe": true,
+            "title": "Pet Beds",
+            "text": "Pet Beds give your pets a nice place to rest. Similar to players, pets can respawn at their Pet Beds after a full day has passed since death."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "domesticationinnovation:feather_on_a_stick",
+            "link_recipe": true,
+            "title": "Feather on a Stick",
+            "text": "A Feather on a Stick can be used to direct your pets to a certain location."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "domesticationinnovation:drum",
+            "link_recipe": true,
+            "title": "Command Drum",
+            "text": "The Command Drum is a must-have for any pet owners hoping to raise an army. When placed, hitting the drum will highlight all pets in an area and give them a certain task."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "domesticationinnovation:collar_tag",
+            "link_recipe": true,
+            "title": "Collar Tags",
+            "text": "Collar Tags are an impressive upgrade over Name Tags for your pets. Collar Tags can be enchanted, then given to pets, allowing you to enchant your pets! Similarly to Name Tags, Collar Tags can be named at an anvil to name your pets."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "It should also be noted that you cannot hurt your pets unless you are holding shift."
+        
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "domesticationinnovation:pet_bed_white",
+            "recipe2": "domesticationinnovation:collar_tag"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "domesticationinnovation:feather_on_a_stick",
+            "recipe2": "domesticationinnovation:drum"
+        }  
+
+    ]
+}

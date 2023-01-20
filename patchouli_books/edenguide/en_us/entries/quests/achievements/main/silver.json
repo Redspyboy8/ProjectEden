@@ -1,0 +1,13 @@
+{
+    "name": "Silver Splendor",
+    "icon": "oreganized:silver_ingot",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "8ba811",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "oreganized:story/obtain_silver",
+            "text": "Obtain a bar of Silver."
+        }
+    ]
+}

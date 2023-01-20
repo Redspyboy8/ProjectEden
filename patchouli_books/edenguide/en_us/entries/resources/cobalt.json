@@ -1,0 +1,26 @@
+{
+    "name": "Cobalt",
+    "icon": "tconstruct:raw_cobalt",
+    "category": "patchouli:resources",
+    "advancement": "minecraft:story/enter_the_nether",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "tconstruct:cobalt_ingot",
+            "title": "Cobalt",
+            "link_recipe": false,
+            "text": "Cobalt is a strange material found only in the Nether. It can be used to create a modular set of armor, but maybe there's another way to unlock its potential..."
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "tconstruct:armor/building/plate_helmet",
+            "recipe2": "tconstruct:armor/building/plate_chestplate"
+        },
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "tconstruct:armor/building/plate_leggings",
+            "recipe2": "tconstruct:armor/building/plate_boots"
+        }
+    ]
+}

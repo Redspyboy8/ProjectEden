@@ -1,0 +1,11 @@
+{
+    "name": "Unfallen Kingdom",
+    "icon": "reliquary:infernal_chalice",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build a walled village in the Nether for the Piglins. Bonus points if all Piglins in the village trust you without gold."
+        }
+    ]
+}

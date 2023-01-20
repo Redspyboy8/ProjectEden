@@ -1,0 +1,14 @@
+{
+    "name": "Rune Your Day",
+    "icon": "ars_nouveau:glyph_rune",
+    "category": "patchouli:quests/challenges",
+    "advancement": "eden:progress/worn_notebook_check",
+    "entry_color": "FFC0CB",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Defeat Ignis using only Rune Glyphs."
+        }
+    ]
+}

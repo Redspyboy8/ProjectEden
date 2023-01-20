@@ -1,0 +1,13 @@
+{
+    "name": "Engineer Gaming",
+    "icon": "supplementaries:wrench",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "8ba811",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "supplementaries:story/wrench",
+            "text": "Craft a wrench to manually turn blocks."
+        }
+    ]
+}

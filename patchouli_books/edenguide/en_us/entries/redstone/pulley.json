@@ -1,0 +1,18 @@
+{
+    "name": "Pulley Block",
+    "icon": "supplementaries:pulley_block",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:pulley_block",
+            "title": "Pulley Block",
+            "link_recipe": true,
+            "text": "A Pulley Block is able to raise or lower rope down. In order to operate, place a Turn Table on the axle sides of the pulley, then supply rope."
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "supplementaries:pulley"
+        }
+    ]
+}

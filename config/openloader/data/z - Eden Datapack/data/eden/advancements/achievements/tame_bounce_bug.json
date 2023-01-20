@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "bug": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sprout:bounce_bug_jar"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bug"
+    ]
+  ]
+}

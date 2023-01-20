@@ -1,0 +1,7 @@
+{ 
+    "name": "Equipment", 
+    "icon": "minecraft:anvil",
+    "description": "For when 'Suit Up' isn't enough",
+    "parent" : "patchouli:quests/achievements",
+    "sortnum": 5
+}

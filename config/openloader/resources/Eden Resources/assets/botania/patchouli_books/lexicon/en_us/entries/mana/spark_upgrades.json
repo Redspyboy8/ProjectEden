@@ -1,0 +1,40 @@
+{
+  "name": "botania.entry.sparkUpgrades",
+  "category": "botania:mana",
+  "icon": "botania:spark_upgrade_dispersive",
+  "entry_color": "aa00",
+  "advancement": "botania:main/elf_lexicon_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.sparkUpgrades0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.sparkUpgrades1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.sparkUpgrades2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.sparkUpgrades3"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.sparkUpgrades4"
+    },
+    {
+      "type": "botania:crafting_multi",
+      "heading":"botania.entry.sparkUpgrades",
+      "text": "botania.page.sparkUpgrades5",
+      "recipes": [
+        "recipestages:botania_spark_upgrade_dispersive",
+        "recipestages:botania_spark_upgrade_dominant",
+        "recipestages:botania_spark_upgrade_recessive",
+        "recipestages:botania_spark_upgrade_isolated"
+      ]
+    }
+  ]
+}

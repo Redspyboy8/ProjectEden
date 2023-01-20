@@ -1,0 +1,16 @@
+{
+    "name": "New World",
+    "icon": "witherstormmod:amulet",
+    "category": "patchouli:quests/achievements/storm",
+    "entry_color": "c01e96",
+    "priority": true,
+    "sortnum": -3,
+    "advancement": "witherstormmod:main/wither_storm_defeated",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "witherstormmod:main/wither_storm_defeated",
+            "text": "Rid the world of the Wither once and for all."
+        }
+    ]
+}

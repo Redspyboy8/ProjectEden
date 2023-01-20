@@ -1,0 +1,13 @@
+{
+    "name": "Diamonds!",
+    "icon": "minecraft:diamond",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "8ba811",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:story/mine_diamond",
+            "text": "Mine a diamond."
+        }
+    ]
+}

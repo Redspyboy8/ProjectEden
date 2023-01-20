@@ -1,0 +1,61 @@
+{
+    "name": "Farmer's Set",
+    "icon": "buddycardsexp:buddycard_pack_farmers",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "category": "patchouli:cards",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddycard_pack_farmers",
+            "link_recipe": true,
+            "title": "Farmer's Set",
+            "text": "Green thumbs are not immune to the Buddycard craze! Obtaining cards from the Farmer's set requires you to grow Buddybeans, a plant gentically engineered to sell more buddycards. There are a total of 18 cards to collect."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddysteel_medal_farmers",
+            "link_recipe": true,
+            "title": "Farmer's Medal",
+            "text": "Upon completing the set, you can use a medal with a Farmer's Card in hand to be granted the Farmer's Medal."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddybeans",
+            "link_recipe": true,
+            "title": "The Buddycard Recipe I",
+            "text": "To get your cards, you will first need to make Buddybeans. These Buddybeans can grow in Farmland to yield more Buddybeans. Despite their origins, they are quite edible!"
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:diced_buddybeans",
+            "link_recipe": true,
+            "title": "The Buddycard Recipe II",
+            "text": "Next, cut up the beans at a Cutting Board to get Diced Beans! These are too thin to be edible, but are vital in the Buddycard-making process."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddybean_paste",
+            "link_recipe": true,
+            "title": "The Buddycard Recipe III",
+            "text": "Combine 4 Diced Buddybeans in a Cooking Pot to make Buddybean Paste. This paste is needed for Buddycards, but also actually has limited application in baking."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddycard_pack_farmers",
+            "link_recipe": true,
+            "title": "The Buddycard Recipe IV",
+            "text": "Finally, combine three Buddybean Pastes, three Shredded Buddycards (obtained via cutting any card at cuttingboard), and one sugar in a pot to obtain a Farmer's Set. Use Canvas to grab cards from pot."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycardsexp:farmersdelight/buddybeans",
+            "recipe2":"buddycardsexp:farmersdelight/buddybean_pie"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycardsexp:farmersdelight/binder_farmers",
+            "recipe2": "buddycardsexp:farmersdelight/booster_box_farmers"
+        } 
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Depricated Forge",
+    "icon": "endrem:lost_eye",
+    "advancement": "endrem:main/lost_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/lost_eye",
+            "text": "Explore the Forge of the Ancients and obtain the Lost Eye"
+        }
+    ]
+}

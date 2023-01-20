@@ -1,0 +1,42 @@
+{
+  "oreConfig": [
+    {
+      "ore": "tinkers_reforged:aluminum_ore",
+      "fillers": [
+        "STONE_ORE_REPLACEABLES"
+      ],
+      "distribution": "UNIFORM",
+      "minY": 0,
+      "maxY": 50,
+      "maxVeinSize": 3,
+      "spawnRate": 6.0,
+      "discardChanceOnAirExposure": 0.25,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    },
+    {
+      "ore": "tinkers_reforged:aluminum_ore",
+      "fillers": [
+        "minecraft:deepslate"
+      ],
+      "distribution": "TRIANGLE",
+      "minY": -64,
+      "maxY": 64,
+      "maxVeinSize": 5,
+      "spawnRate": 5.0,
+      "discardChanceOnAirExposure": 1.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    }
+  ]
+}

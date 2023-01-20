@@ -1,0 +1,171 @@
+{
+    "criteria": {
+    "lost": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:lost_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "old": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:old_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "rogue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:rogue_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "corrupt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:corrupted_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "black": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:black_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "cold": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:cold_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "wither": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:wither_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "cursed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:cursed_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "undead": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:undead_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "magical": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:magical_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "guardian": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:guardian_eye"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "lost"
+    ],
+    [
+      "rogue"
+    ],
+    [
+      "old"
+    ],
+    [
+      "corrupt"
+    ],
+    [
+      "black"
+    ],
+    [
+      "cold"
+    ],
+    [
+      "wither"
+    ],
+    [
+      "cursed"
+    ],
+    [
+      "undead"
+    ],
+    [
+      "magical"
+    ],
+    [
+      "guardian"
+    ]
+  ]
+}

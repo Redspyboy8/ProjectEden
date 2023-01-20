@@ -1,0 +1,35 @@
+{
+    "name": "Cooking Devices",
+    "icon": "farmersdelight:cooking_pot",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:cooking_pot",
+            "link_recipe": true,
+            "text": "The Cooking Pot is the cornerstone of any aspiring chef's kitchen. Place ingredients in the pot, and if the recipes match, you will begin cooking. Some recipes may require a bowl to take out of the pot. Higher-quality meals may grant additional effects."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersrespite:kettle",
+            "link_recipe": true,
+            "text": "The Tea Kettle is great for making many soothing drinks. Works similarly to the cooking pot, but also requires water. Drinks from the Tea Kettle are a great substitute for potions."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:skillet",
+            "link_recipe": true,
+            "text": "A Skillet can be placed on top of any heat source to smelt a stack of one item at once. Skillets are made of aluminum, a relatively rare metal from underground. Also serves as a surprisingly effective weapon; it can be enchanted as if it were a sword."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:cooking_pot",
+            "recipe2": "farmersrespite:kettle"  
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:skillet"  
+        }
+
+    ]
+}

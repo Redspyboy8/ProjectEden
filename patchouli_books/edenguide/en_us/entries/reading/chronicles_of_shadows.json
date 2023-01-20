@@ -1,0 +1,20 @@
+{
+    "name": "Chronicles of Shadows",
+    "icon": "patchouli:guide_book{\"patchouli:book\":\"apotheosis:apoth_chronicle\"}",
+    "advancement": "apotheosis:affix/root",
+    "category": "patchouli:reading",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "patchouli:guide_book{\"patchouli:book\":\"apotheosis:apoth_chronicle\"}",
+            "link_recipe": true,
+            "text": "This book details the new ways to enchant, as well as details how to forge better, stronger gear. A must-have for any enchanter."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "apotheosis:book",
+            "title": "Chronicles of Shadows",      
+            "text": "$(o)Guide to Apotheosis$()"  
+        }
+    ]
+}

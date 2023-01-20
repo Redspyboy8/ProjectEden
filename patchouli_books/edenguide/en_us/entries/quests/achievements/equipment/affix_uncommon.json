@@ -1,0 +1,13 @@
+{
+    "name": "Not that Common",
+    "icon": "minecraft:stone_sword",
+    "advancement": "apotheosis:affix/root",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:affix/uncommon",
+            "text": "Obtain equipment with an Uncommon Affix."
+        }
+    ]
+}

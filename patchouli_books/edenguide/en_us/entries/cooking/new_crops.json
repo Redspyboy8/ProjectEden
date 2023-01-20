@@ -1,0 +1,51 @@
+{
+    "name": "Overworld Crops",
+    "icon": "farmersdelight:tomato",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:tomato",
+            "link_recipe": true,
+            "text": "Wild Tomatoes are most commonly found in arid biomes. Tomatoes Vines grow on farmland, but the Tomato vines can be extended by hanging rope over a tomato plant. Harvesting Tomatoes may give Rotten Tomatoes, which are great for composting. Great for Pastas."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:cabbage",
+            "link_recipe": true,
+            "text": "Wild Cabbage grows most often at beaches. Cabbage Plants grow on farmland. Cabbage can be cut into two different Cabbage leaves, which are often tasty enough to substitute for entire Cabbages (somehow). A much-desired complement for any hearty meal."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:onion",
+            "link_recipe": true,
+            "text": "Wild Onions can be found growing in bunches in temperate biomes. Onions grow on farmland, and yield many onions per crop. You can basically put them in anything."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:rice",
+            "link_recipe": true,
+            "text": "Wild Rice can be found growing in swamps and jungles. Unlike most crops, Rice is grown directly in water. Harvest Rice to get a Rice Panicle, which can be cut to yield both rice and some straw. A noteworthy contrast for more colorful flavors."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersrespite:green_tea_leaves",
+            "link_recipe": true,
+            "text": "Tea Bushes can be found in forests. Tea Bushes grow on farmland. Tea Bushes will yield different types of leaves depending on what stage they are harvested. Different leaves will give different effects when brewed at a Tea Kettle."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:flax",
+            "link_recipe": true,
+            "text": "Flax can be found growing rarely by rivers. Flax grows on farmland. While not desirable in the slightest for cooking, Flax is still a very useful plant. Can be crafted directly into string or used to make Ropes and Sacks."
+        },
+                {
+            "type": "patchouli:spotlight",
+            "item": "sprout:peanut",
+            "link_recipe": true,
+            "text": "Peanuts can be found growing in savannas or traded by villagers who love animals. Peanuts grow on farmland. Can be made into peanut butter. Is also absolutely adored by certain tiny elephants."
+        }
+        
+    ]
+}

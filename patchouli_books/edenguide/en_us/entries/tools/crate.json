@@ -1,0 +1,17 @@
+{
+    "name": "Crates",
+    "icon": "quark:crate",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:crate",
+            "link_recipe": true,
+            "text": "Crates are a very useful alternative to chests. Crates can hold an unlimited number of different items, but can only hold up to 640 individial items. Perfect for storing non-stackables such as tools, weapons, and armor."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:oddities/crafting/crate"  
+        }
+    ]
+}

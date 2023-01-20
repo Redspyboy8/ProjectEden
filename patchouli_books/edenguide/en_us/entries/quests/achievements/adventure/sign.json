@@ -1,0 +1,12 @@
+{
+    "name": "This Must Be a Sign!",
+    "icon": "supplementaries:sign_post_oak",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "supplementaries:adventure/way_sign",
+            "text": "Find a Sign Post, which points to a nearby village."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Quarry",
+    "icon": "oreganized:electrum_pickaxe",
+    "category": "patchouli:quests/challenges",
+    "sortnum": 1,
+    "entry_color": "1F00FF",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Create a machine that can mine on it's own. Bonus points if it deposits its ores"
+        }
+    ]
+}

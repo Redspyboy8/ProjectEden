@@ -1,0 +1,15 @@
+{
+    "name": "Now You've Done it",
+    "icon": "artifacts:obsidian_skull",
+    "entry_color": "1F00FF",
+    "advancement": "cataclysm:kill_ignis",
+    "sortnum": 0,
+    "category": "patchouli:quests/achievements/main",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "cataclysm:kill_ignis",
+            "text": "Begin Expert Mode"
+        }
+    ]
+}

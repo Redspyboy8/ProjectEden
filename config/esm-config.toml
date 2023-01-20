@@ -1,0 +1,65 @@
+#Enable Enemies Swarming You
+enablesiege = true
+#Enable Increased Enemy Presence
+incenemies = true
+#Enable Creeper Jockies
+isjockies = true
+#Charged Creepers Spawn Naturally
+ischargedcreepers = true
+#Allow Bloodlusting Enemies
+isbloodlusting = true
+#Give Zombies Pickaxes and Weapons?
+iszombiepickaxes = true
+#Give Zombies Armor?
+iszombiearmor = true
+#Give Skeletons Armor?
+isskeletonarmor = true
+#Allow Zombies to Lay TNT?
+iszombietnt = true
+#Allow Zombies To Destroy Blocks?
+iszombiegriefing = true
+#Allow Zombies To Place Blocks?
+iszombiebuilding = true
+#Allow Spiders to Shoot Webs?
+isspidershootwebs = true
+#Can Creepers Breach Walls?
+iscreeperbreaching = true
+#Do Entities Move Faster on Ocean Tiles?
+isoceansurfing = true
+#Allow Sleeping?
+allowsleep = false
+#Allow Monster Infighting?
+allowmonsterinfighting = false
+#Allow Zombies and Piglins to light flammable things on fire?
+zombieslightfires = true
+#Allow Super Skeletons to Spawn in the Game?
+allowsuperskeletons = true
+#Creeper Jockey Chance Out of 100
+jockeychance = 1
+#Chance Entity Duplicate on Spawn (Out of 100)
+dupechance = 10
+#Chance of Creepers Spawning Charged Out of 100
+chargedchance = 1
+#Chance of Entities Spawning Bloodlusted Out of 100
+angryentitychance = 10
+#Distance at Which Creepers Will Breach if Blocked (in Blocks)
+breachingdist = 64
+#Creepers Will Explode if This Close to Player (in Blocks)
+creeperexplodedist = 6
+#Distance At Which Creepers Breech the Ground (in Blocks)
+creepersbreechgrounddist = 6
+#Ticks Until Blocked Creeper Explodes (in Game Ticks)
+obstructedcreeperexpticks = 60
+#Chance of Zombies Recieving Special Item or Pickaxe Out of 100
+pickaxechance = 20
+#Chance of Zombies Lighting Flammable Items on Fire Per Tick Out of 100
+zombiefirechance = 1.0
+#Chance of More Powerful Skeleton Spawning
+superskeletonchance = 1.0
+#Above Ground Monster Attack Distance (in Blocks)
+grounddist = 96
+#Below Ground Monster Attack Distance (in Blocks)
+cavedist = 48
+#Maximum Duplicated Enemies. Recommend Min. 1, Max. 4.
+maxdupes = 3
+

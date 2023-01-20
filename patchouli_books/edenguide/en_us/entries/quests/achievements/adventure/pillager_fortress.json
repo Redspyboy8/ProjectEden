@@ -1,0 +1,14 @@
+{
+    "name": "Pillager Fortress",
+    "icon": "minecraft:totem_of_undying",
+    "entry_color": "1F00FF",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:pillager_fortress",
+            "text": "Enter a Pillager's Fortress. Pillage the Illage Away."
+        }
+    ]
+}

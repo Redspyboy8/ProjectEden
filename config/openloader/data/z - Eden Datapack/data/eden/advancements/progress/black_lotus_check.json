@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "lotus": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:black_lotus"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "lotus"
+    ]
+  ]
+}

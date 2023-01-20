@@ -1,0 +1,16 @@
+{
+    "name": "Horrid Mutation",
+    "icon": "witherstormmod:withered_flesh",
+    "category": "patchouli:quests/achievements/storm",
+    "entry_color": "c01e96",
+    "priority": true,
+    "sortnum": -2,
+    "advancement": "witherstormmod:main/harbinger_of_cataclysmic_fates",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "witherstormmod:main/harbinger_of_cataclysmic_fates",
+            "text": "Survive long enough to witness the creation of a Wither Symbiont."
+        }
+    ]
+}

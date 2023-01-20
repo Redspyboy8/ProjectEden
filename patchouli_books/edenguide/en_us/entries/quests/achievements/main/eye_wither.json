@@ -1,0 +1,15 @@
+{
+    "name": "Nether's Burden",
+    "icon": "endrem:wither_eye",
+    "advancement": "endrem:main/wither_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/wither_eye",
+            "text": "Summon and defeat the Wither and obtain the Wither Eye"
+        }
+    ]
+}

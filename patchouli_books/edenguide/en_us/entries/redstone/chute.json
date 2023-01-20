@@ -1,0 +1,17 @@
+{
+    "name": "Chute",
+    "icon": "quark:chute",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:chute",
+            "link_recipe": true,
+            "text": "Chutes are able to drop items in-world. Chutes must be supplied an item via hopper or other means, and will always drop items straight down."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/chute"  
+        }
+    ]
+}

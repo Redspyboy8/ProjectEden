@@ -1,0 +1,15 @@
+{
+    "name": "Sunken Kingdom",
+    "icon": "endrem:guardian_eye",
+    "advancement": "endrem:main/guardian_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/guardian_eye",
+            "text": "Defeat the Elder Guardian and obtain the Guardian Eye"
+        }
+    ]
+}

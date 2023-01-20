@@ -1,0 +1,16 @@
+{
+  "category": "ars_nouveau:equipment",
+  "icon": "ars_nouveau:dull_trinket",
+  "name": "item.ars_nouveau.dull_trinket",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "recipestages:ars_nouveau_dull_trinket",
+      "recipe2": "recipestages:ars_nouveau_mundane_belt"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "recipestages:ars_nouveau_ring_of_potential"
+    }
+  ]
+}

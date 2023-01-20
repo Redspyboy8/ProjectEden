@@ -1,0 +1,17 @@
+{
+    "name": "Warm Welcome",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:getting_started",
+    "sortnum": -10,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Welcome to Project Eden! This book will serve to guide you through some of the several additions made to the game, as well as to track your progress. Don't worry if you lose this book. It can be easily crafted again, and your progress will be saved."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:edenguide"
+        }
+
+    ]
+}

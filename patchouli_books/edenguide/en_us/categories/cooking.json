@@ -1,0 +1,6 @@
+{ 
+    "name": "Agriculture", 
+    "description": "We need to cook!",
+    "icon": "farmersdelight:stove",
+    "sortnum": 4
+}

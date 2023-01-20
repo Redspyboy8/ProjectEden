@@ -1,0 +1,13 @@
+{
+    "name": "Royal Guard",
+    "icon": "undead_expansion:wandering_knight_helmet_2_helmet",
+    "category": "patchouli:quests/challenges",
+    "sortnum": 1,
+    "entry_color": "1F00FF",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Train up enough Guard Villagers so that they can completely defend their village from a Raid."
+        }
+    ]
+}

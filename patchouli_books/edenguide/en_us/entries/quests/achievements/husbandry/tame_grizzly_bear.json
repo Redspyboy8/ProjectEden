@@ -1,0 +1,13 @@
+{
+    "name": "We Bare Bears",
+    "icon": "minecraft:salmon",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_grizzly_bear",
+            "text": "Tame a Grizzly Bear."
+        }
+    ]
+}

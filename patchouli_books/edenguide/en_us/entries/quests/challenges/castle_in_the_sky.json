@@ -1,0 +1,13 @@
+{
+    "name": "Legendary Castle",
+    "icon": "castle_in_the_sky:laputa_miniature",
+    "category": "patchouli:quests/challenges",
+    "sortnum": 1,
+    "entry_color": "1F00FF",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Locate the mysterious Castle in the Sky."
+        }
+    ]
+}

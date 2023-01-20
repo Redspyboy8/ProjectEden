@@ -1,0 +1,19 @@
+{
+    "name": "Pharoah's Pyramid",
+    "icon": "alexsmobs:guster_eye",
+    "advancement": "eden:progress/desert_check",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Pharoah's Pyramid",
+            "text": " $(o)Upon entering a desert, you notice several markers in the sand. They appear to lead to some sort of Grand Desert Temple. Legend has it that a mighty pharoah built many throughout the world, but was finally put to rest here, along with their most prized posession. You wonder what below belongs in a museum.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/desert.png"],
+            "border": true
+        }
+    ]
+}

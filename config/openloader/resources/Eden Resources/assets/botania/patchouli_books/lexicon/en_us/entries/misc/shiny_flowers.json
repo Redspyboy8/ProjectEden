@@ -1,0 +1,64 @@
+{
+  "name": "botania.entry.shinyFlowers",
+  "category": "botania:misc",
+  "icon": "botania:white_shiny_flower",
+  "advancement": "botania:main/mana_pool_pickup_lexicon",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.shinyFlowers0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.shinyFlowers3"
+    },
+    {
+      "anchor": "shiny",
+      "type": "botania:crafting_multi",
+      "heading": "botania.page.shinyFlowers4",
+      "text": "botania.page.shinyFlowers1",
+      "recipes": [
+        "recipestages:botania_white_shiny_flower",
+        "recipestages:botania_orange_shiny_flower",
+        "recipestages:botania_magenta_shiny_flower",
+        "recipestages:botania_light_blue_shiny_flower",
+        "recipestages:botania_yellow_shiny_flower",
+        "recipestages:botania_lime_shiny_flower",
+        "recipestages:botania_pink_shiny_flower",
+        "recipestages:botania_gray_shiny_flower",
+        "recipestages:botania_light_gray_shiny_flower",
+        "recipestages:botania_cyan_shiny_flower",
+        "recipestages:botania_purple_shiny_flower",
+        "recipestages:botania_blue_shiny_flower",
+        "recipestages:botania_brown_shiny_flower",
+        "recipestages:botania_green_shiny_flower",
+        "recipestages:botania_red_shiny_flower",
+        "recipestages:botania_black_shiny_flower"
+      ]
+    },
+    {
+      "anchor": "floating",
+      "type": "botania:crafting_multi",
+      "heading": "botania.page.shinyFlowers5",
+      "text": "botania.page.shinyFlowers2",
+      "recipes": [
+        "recipestages:botania_white_floating_flower",
+        "recipestages:botania_orange_floating_flower",
+        "recipestages:botania_magenta_floating_flower",
+        "recipestages:botania_light_blue_floating_flower",
+        "recipestages:botania_yellow_floating_flower",
+        "recipestages:botania_lime_floating_flower",
+        "recipestages:botania_pink_floating_flower",
+        "recipestages:botania_gray_floating_flower",
+        "recipestages:botania_light_gray_floating_flower",
+        "recipestages:botania_cyan_floating_flower",
+        "recipestages:botania_purple_floating_flower",
+        "recipestages:botania_blue_floating_flower",
+        "recipestages:botania_brown_floating_flower",
+        "recipestages:botania_green_floating_flower",
+        "recipestages:botania_red_floating_flower",
+        "recipestages:botania_black_floating_flower"
+      ]
+    }
+  ]
+}

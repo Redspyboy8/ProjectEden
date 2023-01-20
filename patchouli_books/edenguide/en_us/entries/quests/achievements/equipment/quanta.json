@@ -1,0 +1,13 @@
+{
+    "name": "Chaos Enjoyer",
+    "icon": "tconstruct:blood_slime_grass_seeds",
+    "advancement": "apotheosis:enchanting/enchanter",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/quanta50",
+            "text": "Enchant an item at 50 Quanta"
+        }
+    ]
+}

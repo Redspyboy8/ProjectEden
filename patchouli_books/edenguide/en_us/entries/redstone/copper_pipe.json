@@ -1,0 +1,29 @@
+{
+    "name": "Copper Pipe",
+    "icon": "quark:pipe",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:pipe",
+            "title": "Copper Pipe",
+            "link_recipe": true,
+            "text": "Copper Pipes are a rudimentary yet effective way of transporting items. Copper pipes systems must be fed items via hopper, dropper, dispenser, or other means of item input. However, Copper pipes will automatically output items into chests."
+        }, 
+        {
+            "type": "patchouli:text",
+            "title": "Pathing",
+            "text": "Copper Pipes follow a specific set of rule In order of Priority: $(li)Items will always move down if possible.$() $(li)Items will move forward if possible.$() $(li)At an intersection, items will flow randomly left or right.$(). $(li)Items will not travel upwards unless that is the only option.$() $(li)Items attempting to enter a full container will bounce back, returning in the direction they came from.$() $(li)Items will not flow into powered pipes.$()"
+        }, 
+        {
+            "type": "patchouli:text",
+            "title": "Extra Tidbits",
+            "text": "$(li)Items can fall out of pipes. They will keep momentum and can enter the open end of other pipes.$() $(li)Comparators can read how many items are in a pipe. $() $(li)Pipes will outright break if there are more than 15 items inside at once.$()"
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "quark:oddities/crafting/pipe",
+            "text": "Courtesy to Vazkii for the descriptions!"
+        }
+    ]
+}

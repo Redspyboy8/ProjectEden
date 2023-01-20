@@ -1,0 +1,14 @@
+{
+    "name": "Horrid Island",
+    "icon": "tconstruct:blood_slime_ball",
+    "category": "patchouli:quests/achievements/nether",
+    "entry_color": "FF0000",
+    "advancement": "minecraft:nether/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "tconstruct:world/blood_island",
+            "text": "Step foot on a blood island."
+        }
+    ]
+}

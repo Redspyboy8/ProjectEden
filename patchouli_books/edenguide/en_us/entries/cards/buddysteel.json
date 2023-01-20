@@ -1,0 +1,27 @@
+{
+    "name": "Buddysteel",
+    "icon": "buddycards:buddysteel_ingot",
+    "category": "patchouli:cards",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddysteel_ingot",
+            "link_recipe": true,
+            "title": "Buddysteel",
+            "text": "Buddysteel is an alloy made of metal and pure Buddycards. This alloy is forged of pure childhood spirit, and is used to make many Buddycard-related items."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddysteel_blend",
+            "link_recipe": false,
+            "title": "Foils",
+            "text": "To make Buddycard Steel, you first need to make Buddycard Blend. Then, blasting this blend in a Blast Furnace will yield 1 Buddysteel Ingot."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:buddysteel_blend",
+            "recipe2": "buddycardsexp:buddysteel_blend" 
+        }
+    ]
+}

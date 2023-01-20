@@ -1,0 +1,20 @@
+{
+    "name": "Antique Atlas",
+    "icon": "antiqueatlas:antique_atlas",
+    "category": "patchouli:tools",
+    "priority": true,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "antiqueatlas:empty_antique_atlas",
+            "link_recipe": true,
+            "text": "The Antique Atlas is the cornerstone of any explorer's kit. The Atlas will map anywhere you go, and allows you to place waypoints at places of interest. Can be viewed in hand while embarked."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "antiqueatlas:empty_atlas",
+            "recipe2": "antiqueatlas:empty_atlas_new",
+            "title": "Antique Atlas"       
+        }
+    ]
+}

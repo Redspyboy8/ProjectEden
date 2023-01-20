@@ -1,0 +1,7 @@
+{ 
+    "name": "Minecraft", 
+    "icon": "minecraft:grass_block",
+    "description": "List of all main achievements",
+    "parent" : "patchouli:quests/achievements",
+    "sortnum": 0
+}

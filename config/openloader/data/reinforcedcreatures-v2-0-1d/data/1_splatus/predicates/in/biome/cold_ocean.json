@@ -1,0 +1,11 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "location": {
+        "biome": "minecraft:cold_ocean"
+      },
+      "type": "minecraft:glow_squid"
+    }
+  }
+  

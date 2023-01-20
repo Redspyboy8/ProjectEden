@@ -1,0 +1,14 @@
+{
+    "name": "Cover me in Splendor",
+    "icon": "immersive_armors:divine_chestplate{display:{color:16383998}}",
+    "advancement": "oreganized:story/obtain_silver",
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/divine_gear",
+            "text": "Craft up a full set of splendid Divine Armor."
+        }
+    ]
+}

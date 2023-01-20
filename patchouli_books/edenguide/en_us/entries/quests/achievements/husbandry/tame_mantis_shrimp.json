@@ -1,0 +1,13 @@
+{
+    "name": "The False Lobster",
+    "icon": "ecologics:crab_claw",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_mantis_shrimp",
+            "text": "Tame a Mantis Shrimp."
+        }
+    ]
+}

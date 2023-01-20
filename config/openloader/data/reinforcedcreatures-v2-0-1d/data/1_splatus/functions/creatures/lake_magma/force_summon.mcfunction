@@ -1,0 +1,1 @@
+summon magma_cube ~ ~ ~ {Size:4,Tags:["creatures_lake_magma"],Attributes:[{Name:"minecraft:generic.max_health",Base:200.0}],Health:200f,NoAI:1b,ActiveEffects:[{Id:14b,Duration:40}]}

@@ -1,0 +1,21 @@
+{
+    "name": "Spice of Life",
+    "icon": "solcarrot:food_book",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Keeping a balanced diet is always healthy! Try eating as many different foods as possible. Eating enough different foods will permenantly boost your maximum health."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "solcarrot:food_book",
+            "link_recipe": true,
+            "text": "A Food Book can be made to keep track of all of the different foods you've eaten, as well as the foods you have yet to eat. Do note that some foods aren't healthy enough to count towards a health boost."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "solcarrot:food_book"  
+        }
+    ]
+}

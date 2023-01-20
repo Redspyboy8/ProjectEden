@@ -1,0 +1,13 @@
+{
+    "name": "Sizzling Hot",
+    "icon": "farmersdelight:skillet",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/place_skillet",
+            "text": "Place a Skillet and begin cooking it up!."
+        }
+    ]
+}

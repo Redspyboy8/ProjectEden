@@ -1,0 +1,13 @@
+[ //stages for discoverables
+"engineerstage1",
+"engineerstage2",
+"darkstage1",
+"darkstage2",
+"magicstage1",
+"magicstage2",
+"naturestage1",
+"naturestage2",
+"expertmode", //stages corresponding with prog. difficulty
+"mastermode",
+"witherstorm"
+]

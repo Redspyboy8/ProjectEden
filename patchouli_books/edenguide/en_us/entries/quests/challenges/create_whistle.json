@@ -1,0 +1,14 @@
+{
+    "name": "Musician",
+    "icon": "create:steam_whistle",
+    "category": "patchouli:quests/challenges",
+    "advancement": "eden:progress/create_start",
+    "sortnum": 2,
+    "entry_color": "FFA500",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Use Steam Whistles to create a pipe organ. It can't be that hard, right?"
+        }
+    ]
+}

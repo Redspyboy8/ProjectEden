@@ -1,0 +1,20 @@
+{
+    "name": "Soulstone",
+    "icon": "malum:raw_soulstone",
+    "category": "patchouli:resources",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "malum:processed_soulstone",
+            "title": "Soulstone",
+            "link_recipe": false,
+            "text": "Soulstone can be found in spooky biomes such as Dark Forests. They can be used to create a Soul Compass, a special type of compass that points towards your last death. It is rumored among the villagers that Soulstones may serve other purposes..."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "title": "Soul Compass",
+            "recipe": "crafttweaker:soul_compass"
+        }
+    ]
+}

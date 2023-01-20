@@ -1,0 +1,14 @@
+{
+    "name": "Cover me in Debris",
+    "icon": "minecraft:netherite_chestplate",
+    "advancement": "cataclysm:kill_ignis",
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:nether/netherite_armor",
+            "text": "Obtain a full set of ultimate Netherite Armor."
+        }
+    ]
+}

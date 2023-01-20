@@ -1,0 +1,14 @@
+{
+    "name": "Stable Enchanter",
+    "icon": "minecraft:vine",
+    "entry_color": "1F00FF",
+    "advancement": "apotheosis:enchanting/quanta50",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/quanta0",
+            "text": "Enchant an with no Quanta but max Arcana and Eterna"
+        }
+    ]
+}

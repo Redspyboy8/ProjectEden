@@ -1,0 +1,12 @@
+{
+    "name": "Cover me in Glory",
+    "icon": "savage_and_ravage:griefer_chestplate",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "savage_and_ravage:adventure/griefer_armor",
+            "text": "Craft up a full set of audacious Griefer Armor."
+        }
+    ]
+}

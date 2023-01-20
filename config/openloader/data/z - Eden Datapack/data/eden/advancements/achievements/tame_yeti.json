@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "yeti": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+            "type": "cnb:yeti"
+        }
+      }
+    }
+  },  
+  "requirements": [
+      ["yeti"]
+  ]
+}

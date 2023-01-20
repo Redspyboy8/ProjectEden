@@ -1,0 +1,20 @@
+{
+    "name": "Lexica Botania",
+    "icon": "botania:lexicon",
+    "advancement": "botania:main/lexicon_use",
+    "category": "patchouli:reading",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "botania:lexicon",
+            "link_recipe": true,
+            "text": "This book details the potent magical power of...flowers? It seems that certain Mystical Flowers throughout the world were blessed with power from a distant realm, allowing the creating of many magical gadgets. Quite Neat."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "recipestages:botania_lexicon",
+            "title": "Lexica Botania",
+            "text": "$(o)Fun Fact: the creator of Botania, Vazkii, also created Patchouli, the framework used to write this book.$()"     
+        }
+    ]
+}

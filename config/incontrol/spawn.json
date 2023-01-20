@@ -1,0 +1,9 @@
+ [ {
+    "dimension": "minecraft:the_nether",
+    "mob": "minecraft:area_effect_cloud",
+    "mincount": {
+      "amount": 1,
+      "perplayer": true
+    },
+    "result": "deny"
+  }]

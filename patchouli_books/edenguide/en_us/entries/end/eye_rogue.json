@@ -1,0 +1,19 @@
+{
+    "name": "Tinkerer's Tombtone",
+    "icon": "warden_and_sculk:echo_shard",
+    "advancement": "eden:progress/ancient_city_check",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Tinkerer's Tombstone",
+            "text": " $(o)You enter the Deep Dark, an eerily quiet landscape veiled in darkness. Hidden in this darkness lies an Ancient City, which is rumored to be the origins of modern redstone. It is said that certain brilliant Tinkerer attempted to steal the city's treasures, but hasn't been seen since. You wonder if you'd have better luck.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/city.png"],
+            "border": true
+        }
+    ]
+}

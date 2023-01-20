@@ -1,0 +1,13 @@
+{
+    "name": "Plumbing",
+    "icon": "minecraft:prismarine_bricks",
+    "sortnum": 1,
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Drain an entire Ocean Monument"
+        }
+    ]
+}

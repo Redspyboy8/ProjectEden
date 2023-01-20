@@ -1,0 +1,14 @@
+{
+    "name": "Grim Reaper",
+    "icon": "malum:soul_stained_steel_scythe",
+    "category": "patchouli:quests/challenges",
+    "advancement": "eden:progress/malum_start",
+    "entry_color": "A020F0",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Fill an entire soul pouch with souls. You monster."
+        }
+    ]
+}

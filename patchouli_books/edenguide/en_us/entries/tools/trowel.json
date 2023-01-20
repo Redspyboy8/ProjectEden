@@ -1,0 +1,18 @@
+{
+    "name": "Trowel",
+    "icon": "quark:trowel",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:trowel",
+            "link_recipe": true,
+            "text": "The Trowel is a building tool that will randomly place any blocks in the hotbar. The weight of randomly selected blocks can be controlled by adding another stack in the hotbar."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/trowel",
+            "title": "Trowel"      
+        }
+    ]
+}

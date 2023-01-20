@@ -1,0 +1,14 @@
+{
+    "name": "Status Quo Shredder",
+    "icon": "create_sa:heap_of_experience",
+    "advancement": "apotheosis:enchanting/enchanter",
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/100ench",
+            "text": "Enchant an item at level 100, the max level"
+        }
+    ]
+}

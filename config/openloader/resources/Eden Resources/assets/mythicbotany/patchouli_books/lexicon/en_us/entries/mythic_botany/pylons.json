@@ -1,0 +1,17 @@
+{
+  "name": "lexicon.entry.mythicbotany.mythic_botany.pylons",
+  "category": "mythicbotany:mythic_botany",
+  "icon": "mythicbotany:alfsteel_pylon",
+  "entry_color": "aa00",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "lexicon.entry.mythicbotany.mythic_botany.pylons.page0.text0"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "recipestages:mythicbotany_alfsteel_pylon",
+      "recipe2": "recipestages:mythicbotany_gaia_pylon"
+    }
+  ]
+}

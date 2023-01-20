@@ -1,0 +1,30 @@
+{
+    "name": "Compost and Soil",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "icon": "farmersdelight:organic_compost",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:organic_compost",
+            "link_recipe": true,
+            "title": "Organic Compost",
+            "text": "Organic Compost can be placed in-world to eventually compost into Rich Soil. The composting process can be sped up with sunlight, adjacent water, and adjacent water."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:rich_soil",
+            "link_recipe": true,
+            "title": "Rich Soil",
+            "text": "Rich Soil can be tilled for crops to grow. Crops growing on Rich Soil will grow faster than normal and will be more resistant to trampling."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:organic_compost_from_rotten_flesh"
+        },        
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:organic_compost_from_tree_bark"
+        }
+    ]
+}  

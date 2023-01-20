@@ -1,0 +1,15 @@
+{
+    "name": "For What Reason?",
+    "icon": "supplementaries:turn_table",
+    "category": "patchouli:quests/achievements/main",
+    "advancement": "supplementaries:story/unenchanter", 
+    "secret": true,
+    "entry_color": "1F00FF",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "supplementaries:story/turn_table",
+            "text": "Grind down an Enchanted Golden Apple or Blue Bomb."
+        }
+    ]
+}

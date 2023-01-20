@@ -1,0 +1,66 @@
+ { 
+  "criteria": {
+    "endhelmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "majruszsdifficulty:enderium_helmet"
+            ]
+          }
+        ]
+      }
+    },
+    "endchestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "majruszsdifficulty:enderium_chestplate"
+            ]
+          }
+        ]
+      }
+    },
+    "endleggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "majruszsdifficulty:enderium_leggings"
+            ]
+          }
+        ]
+      }
+    },
+    "endboots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "majruszsdifficulty:enderium_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "endhelmet"
+    ],
+    [
+      "endchestplate"
+    ],
+    [
+      "endleggings"
+    ],
+    [
+      "endboots"
+    ]
+  ]
+}

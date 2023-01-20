@@ -1,0 +1,13 @@
+{
+    "name": "Nourishing Meal",
+    "icon": "farmersdelight:vegetable_noodles",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/eat_nourishing_food",
+            "text": "Eat a Nourishing Meal, which prevents natural hunger loss."
+        }
+    ]
+}

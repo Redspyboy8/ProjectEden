@@ -1,0 +1,7 @@
+{ 
+    "name": "Adventure", 
+    "icon": "antiqueatlas:antique_atlas",
+    "description": "Adventure is Out There!",
+    "parent" : "patchouli:quests/achievements",
+    "sortnum": 4
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Seven Seas",
+    "icon": "aquamirae:pirate_pouch",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Use a Ship Helm to build a ship for your travels."
+        }
+    ]
+}

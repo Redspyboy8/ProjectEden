@@ -1,0 +1,40 @@
+{
+    "name": "Straw Golem",
+    "icon": "minecraft:hay_block",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "offset": 0.2,
+            "scale": 0.9,
+            "entity": "strawgolem:strawgolem"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Golems and You",
+            "text": "Straw Golems are cute little things that can automatically harvest crops. Straw Golems will decay if not given wheat, and require apples to continue working. Iron Golems are particularly curious of these things. Be Careful: Farm animal's bites and the rain both may reduce the golem's lifespawn! "
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Summoning",
+            "text": "To summon a Straw Golem, simply place a carved pumpkin on top of a Hay Bale. Shift-Right Click the golem with an empty hand then click a container to assign the golem a place to deposit."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "name": "Straw Golem Summoning",
+
+            "enable_visualize": true,
+            "multiblock": {
+                "mapping": {
+                    "P": "minecraft:carved_pumpkin",
+                    "0": "minecraft:hay_block"
+                },
+                "pattern": [
+                    ["P"],["0"]
+                ],
+                "symmetrical": true
+            }
+        }
+    ]
+}

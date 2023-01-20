@@ -1,0 +1,1 @@
+give @s minecraft:baked_potato{CustomModelData:27010,display:{Name:'{"translate":"Deep Sea Squid Tentacle","italic":false}',Lore:['{"translate":"Reinforced Creatures","color":"#676e75","italic": true}']},CreaturesDeepSeaSquidTentacle:1}

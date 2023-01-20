@@ -1,0 +1,20 @@
+{
+    "name": "Cloud Storage",
+    "icon": "cloudstorage:guide_book",
+    "advancement": "cloudstorage:cloudstorage/root",
+    "category": "patchouli:reading",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cloudstorage:guide_book",
+            "link_recipe": true,
+            "text": "Who knew that Cloud Storage actually involved clouds and balloons? It seems that you can use these balloons to store your items in 'the cloud.' Just don't fall trying to get them."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cloudstorage:guide_book",
+            "title": "Animal Dictionary",  
+            "text": "$(o)Guide to Cloud Storage$()"     
+        }
+    ]
+}

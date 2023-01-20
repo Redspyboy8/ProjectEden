@@ -1,0 +1,47 @@
+{
+    "name": "Grading and Foils",
+    "icon": "buddycards:grading_sleeve",
+    "category": "patchouli:cards",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddycard_base10{foil:1b}",
+            "link_recipe": false,
+            "title": "Foils",
+            "text": "When obtained, cards may be foiled. Foiled cards are given a shiny glint. Obtaining foiled cards counts towards set completion in the same way regular cards do."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddycard_base10{grade:4}",
+            "link_recipe": false,
+            "title": "Foils",
+            "text": "Each individual card may be graded. Graded cards may be graded F, C, B, A, or S. Graded cards counts towards set completion in the same way regular cards do."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:grading_sleeve",
+            "link_recipe": true,
+            "title": "Grading Sleeves",
+            "text": "To grade a card, place a Grading Sleeve in one hand, and a card to be graded in your off-hand (or vice-verca). Grading sleeves are consumed on use."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:golden_grading_sleeve",
+            "link_recipe": true,
+            "title": "Golden Grading Sleeves",
+            "text": "A Golden Grading Sleeve may be crafted from normal ones. These sleeves give slightly better odds for a higher grade."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:grading_sleeves",
+            "recipe2": "buddycards:grading_sleeves_bulk" 
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:golden_grading_sleeves"  
+        }    
+        
+
+    ]
+}

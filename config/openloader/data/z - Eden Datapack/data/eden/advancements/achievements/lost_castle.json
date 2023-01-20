@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "end": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "tlc:lost_castle"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "end"
+    ]
+  ]
+}

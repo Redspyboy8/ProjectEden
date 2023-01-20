@@ -1,0 +1,11 @@
+{
+    "name": "Shot in the Dark",
+    "icon": "infernalexp:glow_lantern",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "See a Warden in broad daylight."
+        }
+    ]
+}

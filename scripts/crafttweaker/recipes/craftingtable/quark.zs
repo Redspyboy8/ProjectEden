@@ -1,0 +1,2 @@
+craftingTable.removeByName("quark:oddities/crafting/soul_compass_no_bead");
+craftingTable.addShapeless("soul_compass",<item:quark:soul_compass>, [<item:minecraft:compass>,<item:malum:processed_soulstone>]);

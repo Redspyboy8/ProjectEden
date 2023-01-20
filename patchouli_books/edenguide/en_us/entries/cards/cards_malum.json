@@ -1,0 +1,46 @@
+{
+    "name": "Malum Set",
+    "icon": "buddycardsexp:buddycard_pack_malum",
+    "advancement": "eden:progress/malum_start",
+    "category": "patchouli:cards",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddycard_pack_malum",
+            "link_recipe": true,
+            "title": "Malum Set",
+            "text": "Who said cultists couldn't collect cards? Malum Cards require a Spirit Ritual to conjure Malum cards. There are 18 cards to collect"
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddysteel_medal_malum",
+            "link_recipe": true,
+            "title": "Malum Medal",
+            "text": "Upon completing the set, you can use a medal with a Malum Card in hand to be granted the Malum Medal."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:childish_ring",
+            "link_recipe": true,
+            "title": "Buddycard Ritual I",
+            "text": "The ritual for these trading cards requires reaping the souls of children. Luckily, there's a handy ring for that! The Childish Ring will increase the number of souls reaped from Baby Villagers, Baby Piglins, and the like. Can be upgraded via additional Spirit Ritual."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:childish_spirit",
+            "link_recipe": true,
+            "title": "Buddycard Ritual II",
+            "text": "The Childish Spirit is required for the ritual. Perform a Spirit Ritual with four Childish Spirits, six Shredded Buddycards (can be obtained by cutting cards at a Cutting Board), and six pieces of Paper to obtain a Malum Set."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycardsexp:malum/childish_ring"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycardsexp:malum/binder_malum",
+            "recipe2": "buddycardsexp:malum/booster_box_malum"
+        }
+    ]
+}

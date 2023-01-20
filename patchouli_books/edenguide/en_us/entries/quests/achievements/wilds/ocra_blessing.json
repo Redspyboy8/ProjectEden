@@ -1,0 +1,13 @@
+{
+    "name": "Free Willy",
+    "icon": "seadwellers:rainbow_trout",
+    "category": "patchouli:quests/achievements/wilds",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/orcas_might",
+            "text": "Recieve Ocra's Might from a might killer whale"
+        }
+    ]
+}

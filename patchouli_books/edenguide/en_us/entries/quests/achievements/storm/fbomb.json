@@ -1,0 +1,17 @@
+{
+    "name": "Last Line of Defence",
+    "icon": "witherstormmod:formidibomb",
+    "category": "patchouli:quests/achievements/storm",
+    "entry_color": "c01e96",
+    "priority": true,
+    "sortnum": -2,
+    "advancement": "witherstormmod:main/infinite_potential",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "witherstormmod:main/fbomb",
+            "text": "Use a Command Block Book to craft a Formidibomb, the only weapon that might hurt the Wither Storm. WARNING: Highly Destructive"
+        }
+        
+    ]
+}

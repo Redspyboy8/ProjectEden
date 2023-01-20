@@ -1,0 +1,12 @@
+{
+    "name": "Skyslime Oasis",
+    "icon": "tconstruct:sky_slime_ball",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "tconstruct:world/sky_island",
+            "text": "Step foot on a skyslime island."
+        }
+    ]
+}

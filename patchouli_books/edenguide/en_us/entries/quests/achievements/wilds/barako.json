@@ -1,0 +1,12 @@
+{
+    "name": "Sun-Soaked Usurper",
+    "icon": "mowziesmobs:barako_mask",
+    "category": "patchouli:quests/achievements/wilds",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "mowziesmobs:kill_barako",
+            "text": "Defeat Barako, the Sun Chief."
+        }
+    ]
+}

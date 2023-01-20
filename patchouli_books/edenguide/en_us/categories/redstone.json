@@ -1,0 +1,6 @@
+{ 
+    "name": "Redstone", 
+    "description": "Redstone, Bluestone, Onestone, Twostone.",
+    "icon": "supplementaries:cog_block",
+    "sortnum": 3
+}

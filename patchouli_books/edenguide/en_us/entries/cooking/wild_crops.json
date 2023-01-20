@@ -1,0 +1,17 @@
+{
+    "name": "Wild Crops",
+    "icon": "farmersdelight:wild_cabbages",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:image",
+            "images": ["patchouli:edenguide/images/wild.png"],
+            "border": true
+        }, 
+        {
+            "type": "patchouli:text",
+            "title": "Wild Crops",
+            "text": "Many new and familiar crops can be found in the wild. Where crops will grow depend on the climate. These crops aren't as strong as cultivated crops, so they will often only drop one seed."
+        }
+    ]
+}

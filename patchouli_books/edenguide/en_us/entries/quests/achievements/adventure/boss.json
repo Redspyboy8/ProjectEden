@@ -1,0 +1,12 @@
+{
+    "name": "A Tough Enemy Approaches!",
+    "icon": "minecraft:zombie_head",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:affix/boss",
+            "text": "Defeat a boss, a particularly strong Mob."
+        }
+    ]
+}

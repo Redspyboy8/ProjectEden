@@ -1,0 +1,21 @@
+{
+    "name": "Champion's Call",
+    "icon": "cataclysm:ignitium_helmet",
+    "advancement": "eden:progress/ignis_check",
+    "entry_color": "FFD700",
+    "category": "patchouli:end",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Champion's Call",
+            "text": " $(o)During the time of the Ancients, the Aether flew above the Overworld. One day, a powerful demon challenged the Aetherian king to a battle. The ensuing duel was too much for the Aether, and it fell down back to the Overworld. The Champion lies deep in the Nether, awaiting her next challenge.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/arena.png"],
+            "border": true,
+            "text": "HINT: A Cartographer in the Nether may be useful."
+        }
+    ]
+}

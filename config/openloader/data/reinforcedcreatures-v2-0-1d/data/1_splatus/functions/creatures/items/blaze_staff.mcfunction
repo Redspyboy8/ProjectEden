@@ -1,0 +1,1 @@
+give @s minecraft:fishing_rod{CreaturesBlazeStaff:1,CustomModelData:27016,display:{Name:'{"translate":"Blaze Staff","italic":false,"color": "#ff8521"}',Lore:['{"translate":"Reinforced Creatures","color":"#676e75","italic": true}']}}

@@ -1,0 +1,5 @@
+{ 
+    "enchantment.create_sa.impact.desc": "Deals damage upon releasing hook of Grapplin Whisk.",
+    "enchantment.create_sa.digging.desc": "Allows Portable Drill to mine in 3x3 area.",
+    "enchantment.create_sa.gravity_gun.desc": "Allows Block Picker to launch mobs."
+}

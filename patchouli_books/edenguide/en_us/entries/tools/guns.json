@@ -1,0 +1,40 @@
+{
+    "name": "Guns",
+    "icon": "gunswithoutroses:iron_gun",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Guns are a neat alternative to bows and crossbows. Instead of charging, guns fire instantly but must cool down before firing again. Guns can also be enchanted with a unique set of enchantments."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "gunswithoutroses:iron_gun",
+            "recipe2": "gunswithoutroses:gold_gun" 
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "gunswithoutroses:diamond_shotgun",
+            "recipe2": "gunswithoutroses:diamond_sniper"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "gunswithoutroses:diamond_gatling"
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Bullets",
+            "text": "Instead of arrows, guns use bullets, which offer slightly more damage but cannot be tipped. When fired, bullets provide a small amount of light."
+           
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "gunswithoutroses:flint_bullet",
+            "recipe2": "gunswithoutroses:iron_bullet"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "gunswithoutroses:blaze_bullet"
+        }
+    ]
+}

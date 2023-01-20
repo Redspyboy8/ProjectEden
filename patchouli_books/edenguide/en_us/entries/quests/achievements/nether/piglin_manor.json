@@ -1,0 +1,14 @@
+{
+    "name": "Mind your Manors",
+    "icon": "minecraft:crimson_planks",
+    "category": "patchouli:quests/achievements/nether",
+    "entry_color": "FF0000",
+    "advancement": "minecraft:nether/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "bygonenether:piglin_manor",
+            "text": "Locate a Piglin Manor."
+        }
+    ]
+}

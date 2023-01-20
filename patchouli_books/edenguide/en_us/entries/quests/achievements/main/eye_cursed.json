@@ -1,0 +1,15 @@
+{
+    "name": "Brazen Brute's Bastion",
+    "icon": "endrem:cursed_eye",
+    "advancement": "endrem:main/cursed_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/cursed_eye",
+            "text": "Raid a Bastion Remnant and obtain the Cursed Eye"
+        }
+    ]
+}

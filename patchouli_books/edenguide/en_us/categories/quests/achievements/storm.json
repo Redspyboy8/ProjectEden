@@ -1,0 +1,7 @@
+{ 
+    "name": "The Wither Storm", 
+    "icon": "reliquary:witherless_rose",
+    "description": "You reap what you sow.",
+    "parent" : "patchouli:quests/achievements",
+    "sortnum": 7
+}

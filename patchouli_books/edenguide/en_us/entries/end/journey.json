@@ -1,0 +1,23 @@
+{
+    "name": "Getting to The End",
+    "icon": "endrem:cryptic_eye",
+    "entry_color": "1F00FF",
+    "category": "patchouli:end",
+    "sortnum": -2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "endrem:cryptic_eye",
+            "link_recipe": false,
+            "title": "Journey to The End",
+            "text": "In order to seal off an ancient evil and prevent wanton destruction, The End has been sealed away. To re-open the portal, you'll need to find the 12 Eyes of Ender hidden across the world. Any leads you have to finding these eyes will be documented here. A village may be a good place to start."
+        }, 
+        {
+            "type": "patchouli:text",
+            "title": "End Artifacts",
+            "text": "Each of the 12 Eyes can also be used to make 'End Artifacts.' End Artifacts require their respective eye for crafting, but will not consume it. Any acessible End Artifacts will also be documented here."
+        }
+    ]
+}
+
+

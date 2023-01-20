@@ -1,0 +1,13 @@
+{
+    "name": "Elephant Grande",
+    "icon": "quark:azalea_hedge",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_elephant_tusked",
+            "text": "Tame a tusked elephant."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Epidote Gem",
+    "icon": "tinkers_reforged:epidote_gem",
+    "category": "patchouli:resources",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "tinkers_reforged:epidote_gem",
+            "title": "Soulstone",
+            "link_recipe": true,
+            "text": "Epidote Gems can be found deep underground in Ocean biomes. These yellow gems have strong magnetic properties, and can be used to create a plethora of magnetic gadgetry."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "title": "Magnets",
+            "recipe": "crafttweaker:copper_magnet",
+            "recipe2": "crafttweaker:lodestone"
+        }
+    ]
+}

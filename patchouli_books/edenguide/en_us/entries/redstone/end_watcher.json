@@ -1,0 +1,19 @@
+{
+    "name": "End Watcher",
+    "icon": "quark:ender_watcher",
+    "advancement": "minecraft:nether/root",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:ender_watcher",
+            "title": "End Watcher",
+            "link_recipe": true,
+            "text": "The End Watcher is a unique redstone block that will emit signal of variable strength depending on whether or not a player is looking at it."
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "quark:automation/crafting/ender_watcher"
+        }
+    ]
+}

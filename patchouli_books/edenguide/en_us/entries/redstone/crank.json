@@ -1,0 +1,18 @@
+{
+    "name": "Crank",
+    "icon": "supplementaries:crank",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:crank",
+            "title": "Crank",
+            "link_recipe": true,
+            "text": "The Crank is the analog alternative to the Lever. Click to shift from powers 0-15. Shift-Click to decrease power"
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "supplementaries:crank"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Plant Food",
+    "icon": "farmersdelight:rich_soil",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/get_rich_soil",
+            "text": "Compost Organic Compost into Rich Soil."
+        }
+    ]
+}

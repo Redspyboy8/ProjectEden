@@ -1,0 +1,18 @@
+{
+    "name": "Bombs",
+    "icon": "supplementaries:bomb",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:bomb",
+            "link_recipe": true,
+            "text": "Bombs are a useful tool in combat. Bombs do not destroy blocks, and deal damage to mobs in an area. Bombs will destroy lighter objects such as grass or item frames. Also has a Spiky variant, which functions similarly but also poisons."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:bomb",
+            "recipe2": "crafttweaker:spiky_bomb"
+        }
+    ]
+}

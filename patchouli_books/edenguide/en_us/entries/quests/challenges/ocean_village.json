@@ -1,0 +1,11 @@
+{
+    "name": "New Atlantis",
+    "icon": "seadwellers:neptune_chalice",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build an entire village underwater with a population of at least 15 Mermorphs. Bonus points if you can also automate Mermorph Trading."
+        }
+    ]
+}

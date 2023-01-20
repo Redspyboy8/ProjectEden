@@ -1,0 +1,14 @@
+{
+    "name": "Cover me in Power",
+    "icon": "majruszsdifficulty:enderium_chestplate",
+    "category": "patchouli:quests/achievements/equipment",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/end_gear",
+            "text": "Forge a set of ultimate Enderium Armor."
+        }
+    ]
+}

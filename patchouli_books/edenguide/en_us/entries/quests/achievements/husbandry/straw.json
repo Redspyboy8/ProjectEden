@@ -1,0 +1,13 @@
+{
+    "name": "Grasping Straws",
+    "icon": "farmersdelight:straw_bale",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/harvest_straw",
+            "text": "Use a knife to harvest some Straw."
+        }
+    ]
+}

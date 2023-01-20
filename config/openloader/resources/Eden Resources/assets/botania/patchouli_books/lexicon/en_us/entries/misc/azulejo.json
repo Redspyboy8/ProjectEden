@@ -1,0 +1,48 @@
+{
+  "name": "botania.entry.azulejo",
+  "category": "botania:misc",
+  "icon": "botania:azulejo_0",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.azulejo0"
+    },
+    {
+      "type": "image",
+      "text": "botania.page.azulejo1",
+      "images": [
+        "botania:textures/gui/entries/azulejos_0.png",
+        "botania:textures/gui/entries/azulejos_1.png",
+        "botania:textures/gui/entries/azulejos_2.png",
+        "botania:textures/gui/entries/azulejos_3.png"
+      ]
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.azulejo2",
+      "recipe": "recipestages:botania_azulejo_0"
+    },
+    {
+      "type": "botania:crafting_multi",
+      "text": "botania.page.azulejo3",
+      "recipes": [
+        "recipestages:botania_azulejo_0_alt",
+        "recipestages:botania_azulejo_1",
+        "recipestages:botania_azulejo_2",
+        "recipestages:botania_azulejo_3",
+        "recipestages:botania_azulejo_4",
+        "recipestages:botania_azulejo_5",
+        "recipestages:botania_azulejo_6",
+        "recipestages:botania_azulejo_7",
+        "recipestages:botania_azulejo_8",
+        "recipestages:botania_azulejo_9",
+        "recipestages:botania_azulejo_10",
+        "recipestages:botania_azulejo_11",
+        "recipestages:botania_azulejo_12",
+        "recipestages:botania_azulejo_13",
+        "recipestages:botania_azulejo_14",
+        "recipestages:botania_azulejo_15"
+      ]
+    }
+  ]
+}

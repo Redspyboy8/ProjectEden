@@ -1,0 +1,13 @@
+{
+    "name": "Eye of the Tiger",
+    "icon": "tconstruct:ichor_slime_crystal_block",
+    "category": "patchouli:quests/achievements/wilds",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tigers_blessing",
+            "text": "Find a way to recieve a Tiger's Blessing."
+        }
+    ]
+}

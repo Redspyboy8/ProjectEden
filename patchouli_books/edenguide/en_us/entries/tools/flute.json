@@ -1,0 +1,20 @@
+{
+    "name": "Flute",
+    "icon": "supplementaries:flute",
+    "advancement": "minecraft:husbandry/tame_an_animal",
+    "category": "patchouli:tools",
+    "priority": true,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:flute",
+            "link_recipe": true,
+            "text": "A flute can be used to teleport all of your pets to you. Also plays a random song each use."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:flute",
+            "title": "Flute"      
+        }
+    ]
+}

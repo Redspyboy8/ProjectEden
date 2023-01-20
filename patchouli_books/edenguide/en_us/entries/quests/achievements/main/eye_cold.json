@@ -1,0 +1,15 @@
+{
+    "name": "Your Mother!",
+    "icon": "endrem:cold_eye",
+    "advancement": "endrem:main/cold_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/cold_eye",
+            "text": "Defeat the Mother of the Maze and obtain the Cold Eye"
+        }
+    ]
+}

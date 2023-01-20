@@ -1,0 +1,47 @@
+{
+  "name": "botania.entry.marimorphosis",
+  "category": "botania:functional_flowers",
+  "icon": "botania:marimorphosis",
+  "advancement": "botania:main/runic_altar_pickup",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.marimorphosis0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.marimorphosis05"
+    },
+    {
+      "type": "image",
+      "text": "botania.page.marimorphosis1",
+      "images": [
+        "botania:textures/gui/entries/metamorphic_stones_0.png",
+        "botania:textures/gui/entries/metamorphic_stones_1.png"
+      ]
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.marimorphosis2",
+      "recipe": "botania:petal_apothecary/marimorphosis"
+    },
+    {
+      "type": "botania:crafting_multi",
+      "heading":"botania.entry.apothecary",
+      "text": "botania.page.marimorphosis3",
+      "recipes": [
+        "recipestages:botania_apothecary_forest",
+        "recipestages:botania_apothecary_plains",
+        "recipestages:botania_apothecary_mountain",
+        "recipestages:botania_apothecary_fungal",
+        "recipestages:botania_apothecary_swamp",
+        "recipestages:botania_apothecary_desert",
+        "recipestages:botania_apothecary_taiga",
+        "recipestages:botania_apothecary_mesa"
+      ]
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_marimorphosis": 1
+  }
+}

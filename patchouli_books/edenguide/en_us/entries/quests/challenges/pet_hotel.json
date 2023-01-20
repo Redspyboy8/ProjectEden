@@ -1,0 +1,11 @@
+{
+    "name": "Pet Hotel",
+    "icon": "domesticationinnovation:pet_bed_white",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build a Pet Hotel that contains a good home for at least 7 unique pets."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "pick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "tconstruct:modifiable"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "pick"
+    ]
+  ]
+}

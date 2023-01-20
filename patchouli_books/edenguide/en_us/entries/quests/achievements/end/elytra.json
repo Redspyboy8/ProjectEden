@@ -1,0 +1,14 @@
+{
+    "name": "Skymaster",
+    "icon": "minecraft:elytra",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:end/elytra",
+            "text": "Obtain an Elytra."
+        }
+    ]
+}

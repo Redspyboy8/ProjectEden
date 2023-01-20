@@ -1,0 +1,34 @@
+{
+    "name": "Red Beryl",
+    "icon": "tinkers_reforged:red_beryl_gem",
+    "category": "patchouli:resources",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "tinkers_reforged:red_beryl_gem",
+            "link_recipe": true,
+            "text": "Red Beryl is a bright red crystal that can be found in between stone and deepslate. Red Beryl has potent magical energy and can be used to create a plethora of tools for enchanting. "
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:weapon_tome",
+            "recipe2": "crafttweaker:pickaxe_tome"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:helmet_tome",
+            "recipe2": "crafttweaker:chestplate_tome"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:leggings_tome",
+            "recipe2": "crafttweaker:boots_tome"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:other_tome"
+        }
+
+    ]
+}

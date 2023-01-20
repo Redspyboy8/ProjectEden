@@ -1,0 +1,18 @@
+{
+    "name": "Hourglass",
+    "icon": "supplementaries:hourglass",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:hourglass",
+            "title": "Hourglass",
+            "link_recipe": true,
+            "text": "The Hourglass is a timing mechanism that can be filled with sand, dust, powder, slime, or even honey. Once filled, the substance inside will begin to slowly fall at a rate dependent of the type of substance. The Hourglass gives a Comparator output depending on the amount of time left. Reset by either rotating twice or shift-clicking."
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "supplementaries:hourglass"
+        }
+    ]
+}

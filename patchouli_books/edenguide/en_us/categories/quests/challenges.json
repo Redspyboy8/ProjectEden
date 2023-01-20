@@ -1,0 +1,6 @@
+{ 
+    "name": "Challenges", 
+    "description": "Select an Challenge to view its conditions. Some Challenges are hidden.",
+    "icon": "reliquary:hero_medallion",
+    "parent" : "patchouli:quests/quests"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Cover me in Wings",
+    "icon": "oreganized:electrum_chestplate",
+    "advancement": "minecraft:story/mine_diamond",
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "oreganized:story/electrum_gear",
+            "text": "Craft up a full set of agile Electrum armor."
+        }
+    ]
+}
+

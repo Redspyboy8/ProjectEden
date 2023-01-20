@@ -1,0 +1,13 @@
+{
+    "name": "Witch's Stump",
+    "icon": "reliquary:witch_hat",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:witches_treestump",
+            "text": "Locate a Witch's Treestump, a place of dark magic in the woods."
+        }
+    ]
+}

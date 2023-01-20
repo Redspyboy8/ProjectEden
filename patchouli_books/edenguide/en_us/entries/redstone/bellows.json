@@ -1,0 +1,24 @@
+{
+    "name": "Bellows",
+    "icon": "supplementaries:bellows",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:bellows",
+            "title": "Bellows",
+            "link_recipe": true,
+            "text": "When powered (or when stepped on), Bellows will blow air up to 5 blocks in front of it, pushing entities in that direction."
+        }, 
+        {
+            "type": "patchouli:text",
+            "title": "Additional Effects",
+            "text": "The air from Bellows have these additional effects: $(li)Any Furnace block next to the bellows will be sped up.$() $(li)Refreshes fire blocks. Any fire within 2 blocks of bellows will be kept alive.$() $(li)Can speed up copper aging.$() $(li)Can blow bubbles if placed in front of a Wet Spounge that is in contact with a Soap Block.$()"
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "supplementaries:bellows",
+            "text": "$(o)...Why would it hate witches?$()"
+        }
+    ]
+}

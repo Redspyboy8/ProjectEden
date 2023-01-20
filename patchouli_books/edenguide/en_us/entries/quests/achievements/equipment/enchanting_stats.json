@@ -1,0 +1,13 @@
+{
+    "name": "Budding Enchanter",
+    "icon": "byg:foxglove",
+    "advancement": "apotheosis:enchanting/enchanter",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/enchanting_stats",
+            "text": "Enchant an item with 10 Arcana, 10 Eterna, and 10 Quanta"
+        }
+    ]
+}

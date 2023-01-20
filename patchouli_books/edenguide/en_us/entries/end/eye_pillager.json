@@ -1,0 +1,19 @@
+{
+    "name": "Pillager's Plunders",
+    "icon": "omnis:vindicator_axe",
+    "advancement": "minecraft:adventure/voluntary_exile",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Pillager's Plunders",
+            "text": " $(o)You seem to have made yourself an enemy of the Pillagers. The Pillagers seem to be Villagers demented by some kind of evil energy. You realize that they have it out for you, but you may be able to strike first. You wonder if you could locate the Pillager's Fortress...$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/pillage.png"],
+            "border": true
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Now this is Epic!",
+    "icon": "minecraft:diamond_sword",
+    "advancement": "apotheosis:affix/root",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:affix/epic",
+            "text": "Obtain equipment with an Epic Affix."
+        }
+    ]
+}

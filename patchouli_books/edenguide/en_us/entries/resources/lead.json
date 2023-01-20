@@ -1,0 +1,20 @@
+{
+    "name": "Lead",
+    "icon": "oreganized:raw_lead",
+    "category": "patchouli:resources",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "oreganized:lead_ingot",
+            "link_recipe": true,
+            "text": "Lead can be found either deep underground or on the surface in boulders. Heavy and toxic, lead can be used to create heavy armors or toxic weaponry. Don't eat while handling Lead."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "oreganized:bush_hammer",
+            "title": "Bush Hammer",
+            "text": "If poisoning water supplies isn't your thing, then you may find some use in the Bush Hammer. This tool can be used to engrave stone blocks and write text."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Wind Vane",
+    "icon": "supplementaries:wind_vane",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:wind_vane",
+            "link_recipe": true,
+            "text": "Wind Vanes are a perfect way of tracking the weather. The Weather Vane will emit a power of 1 when raining and a power of 2 when thunderstorming."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:wind_vane"  
+        }
+    ]
+}

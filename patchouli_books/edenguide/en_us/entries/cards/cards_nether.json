@@ -1,0 +1,31 @@
+{
+    "name": "Nether Set",
+    "icon": "buddycards:buddycard_pack_nether",
+    "advancement": "minecraft:nether/root",
+    "category": "patchouli:cards",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddycard_pack_nether",
+            "link_recipe": true,
+            "title": "Nether Set",
+            "text": "The Nether Set contains cards themed around the titular hellish dimension. These cards are found throughout chests in the Nether. In addition, they are quite popular among Baby Piglins. They might even trade you some cards in exchange for gold. There are a total of 27 cards in this set."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddysteel_medal_nether",
+            "link_recipe": true,
+            "title": "Nether Medal",
+            "text": "Upon completing the set, you can use a medal with a Nether Card in hand to be granted the Nether Medal."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:binder_nether"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:booster_box_nether"
+        }
+    ]
+}

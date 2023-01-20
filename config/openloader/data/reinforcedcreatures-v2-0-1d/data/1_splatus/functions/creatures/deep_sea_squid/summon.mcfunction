@@ -1,0 +1,1 @@
+summon minecraft:glow_squid ~ ~ ~ {CustomName:'{"translate":"Deep Sea Squid"}',Tags:["creatures_squid"],NoAI:1b,PersistenceRequired:0b,Attributes:[{Name:"minecraft:generic.max_health",Base:500.0d}],Health:500f,DeathLootTable:"1_splatus:creatures/entity/deep_sea_squid"}

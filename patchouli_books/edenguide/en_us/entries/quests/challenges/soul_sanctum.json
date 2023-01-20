@@ -1,0 +1,14 @@
+{
+    "name": "Soul Sanctum",
+    "icon": "malum:runewood_totem_base",
+    "category": "patchouli:quests/challenges",
+    "advancement": "eden:progress/malum_start",
+    "entry_color": "A020F0",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Create an area with every single rite active at the same time."
+        }
+    ]
+}

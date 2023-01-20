@@ -1,0 +1,19 @@
+{
+    "name": "Medals",
+    "icon": "buddycards:blank_buddysteel_medal",
+    "category": "patchouli:cards",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:blank_buddysteel_medal",
+            "link_recipe": true,
+            "title": "Buddycard Medals",
+            "text": "Medals are special items that grant buffs for completed sets. To activate a medal, use a medal in one hand with a card from a completed set in the other. Medals can be worn in the Medal Slot. Differnt sets give differnt buffs. Medals can be enchanted to give a greater buff."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:blank_buddysteel_medal"
+        }
+    ]
+}

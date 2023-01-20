@@ -1,0 +1,11 @@
+{
+    "name": "Smart Storage",
+    "icon": "sophisticatedstorage:crafting_upgrade",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Create a system that can automatically sort your items. There is no AE2, this time."
+        }
+    ]
+}

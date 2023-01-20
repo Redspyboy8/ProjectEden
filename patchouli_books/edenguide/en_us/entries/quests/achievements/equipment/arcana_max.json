@@ -1,0 +1,13 @@
+{
+    "name": "Magic Master",
+    "icon": "tconstruct:ender_slime_vine",
+    "advancement": "apotheosis:enchanting/arcana50",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/arcana100",
+            "text": "Enchant an item at Max Arcana"
+        }
+    ]
+}

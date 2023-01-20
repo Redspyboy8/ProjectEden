@@ -1,0 +1,14 @@
+{
+    "name": "Right 'Round, Baby",
+    "icon": "supplementaries:turn_table",
+    "category": "patchouli:quests/achievements/main",
+    "advancement": "supplementaries:story/wrench", 
+    "entry_color": "8ba811",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "supplementaries:story/turn_table",
+            "text": "Craft a turn table."
+        }
+    ]
+}

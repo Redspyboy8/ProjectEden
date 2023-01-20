@@ -1,0 +1,19 @@
+{
+    "name": "Piglin's Prize",
+    "icon": "minecraft:golden_axe",
+    "advancement": "minecraft:nether/distract_piglin",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Piglin's Prize",
+            "text": " $(o)You manage to establish some sort of truce with the Piglins. They inform you of the Piglin Brutes: ruthless barbarians that stole the Piglin's most treasured artifact. They currently reside in the now-ruined Bastions, which were previously the hallmarks of Piglin civilization. You wonder if its time for payback.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/bastion.png"],
+            "border": true
+        }
+    ]
+}

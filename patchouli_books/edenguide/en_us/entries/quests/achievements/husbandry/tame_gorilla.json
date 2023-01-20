@@ -1,0 +1,13 @@
+{
+    "name": "Big Mode",
+    "icon": "alexsmobs:banana",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_gorilla",
+            "text": "Tame a Gorilla."
+        }
+    ]
+}

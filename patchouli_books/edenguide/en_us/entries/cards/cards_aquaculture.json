@@ -1,0 +1,47 @@
+{
+    "name": "Aquaculture Set",
+    "icon": "buddycardsexp:buddycard_pack_aquaculture",
+    "advancement": "minecraft:husbandry/fishy_business",
+    "category": "patchouli:cards",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddycard_pack_aquaculture",
+            "link_recipe": true,
+            "title": "Aquaculture Set",
+            "text": "The Buddycard craze has spread through the deep blue sea itself. Aquaculture Cards need to first be fished out of the sea to be collected. There are 18 cards to collect"
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddysteel_medal_aquaculture",
+            "link_recipe": true,
+            "title": "Aquaculture Medal",
+            "text": "Upon completing the set, you can use a medal with an Aquaculture Card in hand to be granted the Aquaculture Medal."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "aquaculture:buddysteel_hook",
+            "link_recipe": true,
+            "title": "Fishy Business I",
+            "text": "To fish for Buddycards, you will first need to create a Buddysteel Hook. This hook will allow fishing rods to catch Cardfishes."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:cardfish",
+            "link_recipe": true,
+            "title": "Fishy Business II",
+            "text": "Fishing with the Buddysteel Hook gives the chance to catch Cardfish. Cardfish can be opened directly for Aquaculture cards, similar to a card set."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycardsexp:aquaculture/buddysteel_hook"
+
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycardsexp:aquaculture/binder_aquaculture",
+            "recipe2": "buddycardsexp:aquaculture/booster_box_aquaculture"
+        }
+    ]
+}

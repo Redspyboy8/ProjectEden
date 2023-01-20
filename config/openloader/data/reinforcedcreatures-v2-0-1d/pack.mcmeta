@@ -1,0 +1,19 @@
+{
+    "pack": {
+      "pack_format": 10,
+      "description": [
+        {
+          "translate": "Reinforced Mob Varients",
+          "color": "#bf66ff"
+        },
+        {
+          "translate": "\n"
+        },
+        {
+          "translate": "Version 2.0.1 - MC 1.19",
+          "color": "#898f96"
+        }
+      ]
+    }
+  }
+  

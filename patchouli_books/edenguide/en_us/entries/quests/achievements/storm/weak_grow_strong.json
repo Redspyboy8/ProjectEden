@@ -1,0 +1,16 @@
+{
+    "name": "...But the Weak Arise Stronger",
+    "icon": "minecraft:wither_skeleton_skull",
+    "category": "patchouli:quests/achievements/storm",
+    "entry_color": "c01e96",
+    "priority": true,
+    "sortnum": -2,
+    "advancement": "witherstormmod:main/weakened_arise_stronger",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "witherstormmod:main/weakened_arise_stronger",
+            "text": "Witness the Wither Storm rise once more."
+        }
+    ]
+}

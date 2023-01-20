@@ -1,0 +1,6 @@
+{ 
+    "name": "Buddycards", 
+    "description": "Buddycards are collectable trading cards that can be found all over the world. There are 7 total sets to collect, and cards from different sets are obtained in different ways.",
+    "icon": "buddycards:buddycard_base1",
+    "sortnum": 5
+}

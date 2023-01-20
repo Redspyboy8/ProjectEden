@@ -1,0 +1,14 @@
+{
+    "name": "Terrible Fate",
+    "icon": "malum:ether",
+    "category": "patchouli:quests/challenges",
+    "advancement": "eden:progress/malum_start",
+    "entry_color": "A020F0",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Use a Twisted Aerial Rite to create a Bouncy Castle."
+        }
+    ]
+}

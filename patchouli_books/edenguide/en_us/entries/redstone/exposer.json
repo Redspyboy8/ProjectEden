@@ -1,0 +1,18 @@
+{
+    "name": "Exposer",
+    "icon": "oreganized:exposer",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "oreganized:exposer",
+            "title": "Exposer",
+            "link_recipe": true,
+            "text": "The Exposer is a unique redstone block that uses the power of silver to detect nearby undead. The exposer can emit a redstone signal of up to 3 strength depending on the proximity of undead mobs."
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "oreganized:exposer"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Cover me in Weight",
+    "icon": "immersive_armors:heavy_chestplate",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/heavy_gear",
+            "text": "Craft up a full set of bulky Heavy Armor."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+   
+    
+
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "name": "minecraft:dried_kelp",
+          "functions": [ {
+            "function": "minecraft:set_nbt",
+            "tag": "{CustomModelData:27012,display:{Name:'{\"text\":\"Jellyfish Strip\",\"italic\":false}',Lore:['{\"text\":\"Reinforced Creatures\",\"color\":\"#676e75\",\"italic\": true}']},CreaturesJellyfishStrip:1}"
+          }
+          ]
+          
+          
+        }
+      ]
+    
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "name": "minecraft:dried_kelp",
+          "functions": [ {
+            "function": "minecraft:set_nbt",
+            "tag": "{CustomModelData:27012,display:{Name:'{\"text\":\"Jellyfish Strip\",\"italic\":false}',Lore:['{\"text\":\"Reinforced Creatures\",\"color\":\"#676e75\",\"italic\": true}']},CreaturesJellyfishStrip:1}"
+          }
+          ]
+          
+          
+        },
+      
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "name": "minecraft:air"
+        }
+      ]
+    
+    }
+    
+    
+  ]
+}

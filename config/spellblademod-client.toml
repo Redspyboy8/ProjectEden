@@ -1,0 +1,13 @@
+
+#Settings for the mana system
+[mana]
+	#X location of the mana hud
+	#Range: > -1
+	manaHudX = 10
+	#Y location of the mana hud
+	#Range: > -1
+	manaHudY = 10
+	#Color of the mana hud
+	#Range: > -2147483648
+	manaHudColor = -1
+

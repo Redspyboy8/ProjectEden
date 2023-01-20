@@ -1,0 +1,14 @@
+{
+    "name": "Heart Gold",
+    "icon": "reliquary:phoenix_down",
+    "category": "patchouli:quests/achievements/wilds",
+    "entry_color": "1F00FF",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/sunbird_blessing",
+            "text": "Recieve the blessing of a Sun Bird."
+        }
+    ]
+}

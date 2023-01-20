@@ -1,0 +1,14 @@
+{
+    "name": "Freak of Nature",
+    "icon": "botania:hopperhock",
+    "category": "patchouli:quests/challenges",
+    "advancement": "botania:main/lexicon_use",
+    "entry_color": "00FF00",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Complete every single challenge listed in the Lexica Botania."
+        }
+    ]
+}

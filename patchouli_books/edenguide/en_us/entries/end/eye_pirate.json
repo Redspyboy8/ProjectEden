@@ -1,0 +1,19 @@
+{
+    "name": "Pirate's Plight",
+    "icon": "aquamirae:three_bolt_helmet",
+    "advancement": "minecraft:adventure/trade",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Pillager's Plight",
+            "text": " $(o)Trading with the villagers, you catch wind of rumors about some sort of Pillager expedition. Lead by the ruthless \"Black Pearl,\" Cornelia, they set their sails towards the Deep Frozen Ocean in search of a powerful Eye of Ender. However, not even the Pillagers have heard from the crew since the expedition started. You wonder if you should investigate.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/pirate.png"],
+            "border": true
+        }
+    ]
+}

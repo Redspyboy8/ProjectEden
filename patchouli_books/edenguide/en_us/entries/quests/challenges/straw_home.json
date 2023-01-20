@@ -1,0 +1,11 @@
+{
+    "name": "Straw Home",
+    "icon": "strawgolem:straw_hat",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build a home for your hard-working Straw Golems. Bonus points if its better than your actual home. They deserve it."
+        }
+    ]
+}

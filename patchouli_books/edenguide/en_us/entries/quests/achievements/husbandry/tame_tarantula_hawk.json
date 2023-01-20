@@ -1,0 +1,13 @@
+{
+    "name": "Aerial Horror",
+    "icon": "alexsmobs:tarantula_hawk_wing",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_tarantula_hawk",
+            "text": "Tame the terrifying Tarantula Hawk."
+        }
+    ]
+}

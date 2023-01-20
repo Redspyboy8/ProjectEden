@@ -1,0 +1,16 @@
+{
+    "name": "Strangeness",
+    "icon": "ars_nouveau:source_gem",
+    "category": "patchouli:getting_started",
+    "sortnum": -6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "ars_nouveau:source_gem",
+            "link_recipe": false,
+            "title": "Strangeness",
+            "text": "As you explore the world, you may find items that are \"strange\". These items are unknown to you, and you'll need to uncover their secrets before being able to use them. Some items will be unlocked as you get closer to the end, but others you'll have to discover on your own."
+        }
+
+    ]
+}

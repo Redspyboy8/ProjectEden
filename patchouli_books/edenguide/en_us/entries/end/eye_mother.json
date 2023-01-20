@@ -1,0 +1,19 @@
+{
+    "name": "Mother's Maze",
+    "icon": "aquamirae:abyssal_amethyst",
+    "advancement": "aquamirae:adventure/find_ice_maze",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Mother's Maze",
+            "text": " $(o)You discover the Ice Maze, a frigid hellscape characterized by horrible contortions of ice. It seems that the Pillagers that attempted to explore here have mostly succumbed to the cold and the horrifying creatures of the deep. Although the Pillagers evidently failed their search, you wonder if you might have better luck.$()."
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/mother.png"],
+            "border": true
+        }
+    ]
+}

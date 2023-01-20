@@ -1,0 +1,27 @@
+{
+    "name": "Binders",
+    "icon": "buddycards:buddycard_binder_base",
+    "category": "patchouli:cards",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddycard_binder_base",
+            "link_recipe": false,
+            "title": "Binders",
+            "text": "Binders are a convenient way of storing your cards. Each set can craft a uniquely colored binder. The binder can be enchanted to give extra card space."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:ender_buddycard_binder",
+            "link_recipe": true,
+            "title": "Ender Binder",
+            "text": "There also exists the Ender Binder, which serves as the ender chest equivalent for binders. Only has one variant, but can also be enchanted."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:ender_binder"
+        }
+        
+    ]
+}

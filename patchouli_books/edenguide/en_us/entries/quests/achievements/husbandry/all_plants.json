@@ -1,0 +1,14 @@
+{
+    "name": "Garden of Eden",
+    "icon": "botania:overgrowth_seed",
+    "category": "patchouli:quests/achievements/husbandry",
+    "entry_color": "1F00FF",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/plant_all_crops",
+            "text": "Plant every single crop in the game."
+        }
+    ]
+}

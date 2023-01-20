@@ -1,0 +1,14 @@
+{
+    "name": "Worm, no Truffle",
+    "icon": "alexsmobs:mysterious_worm",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/mysterious_worm",
+            "text": "Use a capsid to create a Mysterious Worm."
+        }
+    ]
+}

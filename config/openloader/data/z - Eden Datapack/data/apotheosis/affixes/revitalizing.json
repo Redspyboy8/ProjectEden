@@ -1,0 +1,46 @@
+{
+	"type": "apotheosis:mob_effect",
+	"mob_effect": "minecraft:regeneration",
+	"target": "HURT_SELF",
+	"values": {
+		"epic": {
+			"duration": {
+				"min": 20,
+				"steps": 2,
+				"step": 10
+			},
+			"amplifier": {
+				"min": 0,
+				"steps": 1,
+				"step": 1
+			}
+		},
+		"mythic": {
+			"duration": {
+				"min": 30,
+				"steps": 4,
+				"step": 10
+			},
+			"amplifier": {
+				"min": 0,
+				"steps": 1,
+				"step": 1
+			}
+		},
+		"ancient": {
+			"duration": {
+				"min": 50,
+				"steps": 5,
+				"step": 20
+			},
+			"amplifier": {
+				"min": 1,
+				"steps": 2,
+				"step": 1
+			}
+		}
+	},
+	"types": [
+		"ARMOR"
+	]
+}

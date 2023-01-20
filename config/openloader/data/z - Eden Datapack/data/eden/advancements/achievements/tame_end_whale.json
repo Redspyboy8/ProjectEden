@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "end": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+            "type": "cnb:end_whale"
+        }
+      }
+    }
+  },  
+  "requirements": [
+      ["end"]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Heisenburg",
+    "icon": "minecraft:potion",
+    "sortnum": 1,
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build a machine that can craft all types of vanilla potion."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Knives",
+    "icon": "farmersdelight:iron_knife",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:iron_knife",
+            "link_recipe": true,
+            "title": "Knives",
+            "text": "Knives are a useful tool for gathering. Killing animals with a knife will always grant secondary drops. Cutting grass with a knife will also give straw."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:straw",
+            "link_recipe": true,
+            "title": "Straw",
+            "text": "Straw can be used to make Canvas, Tatami Mats, or used in Organic Compost."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:flint_knife",
+            "recipe2": "farmersdelight:iron_knife"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:golden_knife",
+            "recipe2": "farmersdelight:diamond_knife"
+        }
+    ]
+}   

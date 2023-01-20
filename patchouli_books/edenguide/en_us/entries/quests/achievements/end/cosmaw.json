@@ -1,0 +1,14 @@
+{
+    "name": "Very Strange Friend",
+    "icon": "alexsmobs:cosmic_cod",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_cosmaw",
+            "text": "Use some Cosmic Cod to tame a Cosmaw."
+        }
+    ]
+}

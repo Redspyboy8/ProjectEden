@@ -1,0 +1,12 @@
+{
+    "name": "Local Berk Resident",
+    "icon": "mowziesmobs:naga_fang",
+    "category": "patchouli:quests/achievements/wilds",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "mowziesmobs:kill_naga",
+            "text": "Kill a flying naga and retrive its fangs."
+        }
+    ]
+}

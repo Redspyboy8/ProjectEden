@@ -1,0 +1,13 @@
+{
+    "name": "Surprise!",
+    "icon": "artifacts:mimic_spawn_egg",
+    "advancement": "artifacts:chest_slayer",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "artifacts:chest_slayer",
+            "text": "Kill a Mimic."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+ { 
+  "criteria": {
+    "woodenhelmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:wooden_helmet"
+            ]
+          }
+        ]
+      }
+    },
+    "woodenchestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:wooden_chestplate"
+            ]
+          }
+        ]
+      }
+    },
+    "woodenleggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:wooden_leggings"
+            ]
+          }
+        ]
+      }
+    },
+    "woodenboots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:wooden_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "woodenhelmet"
+    ],
+    [
+      "woodenchestplate"
+    ],
+    [
+      "woodenleggings"
+    ],
+    [
+      "woodenboots"
+    ]
+  ]
+}

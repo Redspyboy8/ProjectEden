@@ -1,0 +1,18 @@
+{
+    "name": "Speaker",
+    "icon": "supplementaries:speaker_block",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:speaker_block",
+            "title": "Speaker Block",
+            "link_recipe": true,
+            "text": "Speaker Blocks can be used to send a message in chat to all players within its radius. Also provides a narrator mode, where the message will be read out instead. Can be named in an Anvil to change what name is displayed in chat."
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "supplementaries:speaker_block"
+        }
+    ]
+}

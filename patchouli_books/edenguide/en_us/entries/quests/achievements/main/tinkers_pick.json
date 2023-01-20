@@ -1,0 +1,15 @@
+{
+    "name": "New Reliable",
+    "icon": "tconstruct:pickaxe",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "8ba811",
+    "sortnum": 0,
+    "advancement": "minecraft:story/upgrade_tools",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/tinkers_pick",
+            "text": "Use a Tinkers Station to craft any Tinker's Tool."
+        }
+    ]
+}

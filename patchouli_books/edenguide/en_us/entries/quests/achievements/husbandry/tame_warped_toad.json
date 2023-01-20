@@ -1,0 +1,14 @@
+{
+    "name": "It is Wednesday",
+    "icon": "nethersdelight:warped_fungus_colony",
+    "category": "patchouli:quests/achievements/husbandry",
+    "entry_color": "FF0000",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_warped_toad",
+            "text": "Tame a Warped Toad."
+        }
+    ]
+}

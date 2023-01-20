@@ -1,0 +1,13 @@
+{
+    "name": "Lush Fliers",
+    "icon": "ecologics:azalea_flower",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_flutter",
+            "text": "Tame a Flutter in a lush cave."
+        }
+    ]
+}

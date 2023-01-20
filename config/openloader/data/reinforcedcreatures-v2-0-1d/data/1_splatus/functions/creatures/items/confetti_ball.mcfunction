@@ -1,0 +1,1 @@
+give @s minecraft:snowball{CreaturesCreeperConfettiBall:1,CustomModelData:27018,display:{Name:'{"translate":"Confetti Ball","italic":false,"color": "#685cb8"}',Lore:['{"translate":"Reinforced Creatures","color":"#676e75","italic": true}']}} 1

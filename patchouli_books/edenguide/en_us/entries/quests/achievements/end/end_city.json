@@ -1,0 +1,14 @@
+{
+    "name": "City at the End of the Game",
+    "icon": "minecraft:purpur_block",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:end/find_end_city",
+            "text": "Find an End City."
+        }
+    ]
+}

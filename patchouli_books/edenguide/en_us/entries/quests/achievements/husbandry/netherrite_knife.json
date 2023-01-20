@@ -1,0 +1,14 @@
+{
+    "name": "If You Can't Take the Heat...",
+    "icon": "farmersdelight:netherite_knife",
+    "category": "patchouli:quests/achievements/husbandry",
+    "entry_color": "1F00FF",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/obtain_netherite_knife",
+            "text": "Spend a Netherite bar to make a Netherite Knife."
+        }
+    ]
+}

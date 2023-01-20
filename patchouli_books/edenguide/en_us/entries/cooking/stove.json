@@ -1,0 +1,18 @@
+{
+    "name": "Stove",
+    "icon": "farmersdelight:stove",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "farmersdelight:stove",
+            "link_recipe": true,
+            "text": "A Stove is a direct upgrade to the campfire. Stoves can smoke 6 items at once instead of 4. Also similar to campfires, stoves serve as heat sources."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "farmersdelight:stove"  
+        }
+
+    ]
+}

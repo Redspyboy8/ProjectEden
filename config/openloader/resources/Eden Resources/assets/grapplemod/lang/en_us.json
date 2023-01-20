@@ -1,0 +1,5 @@
+{ 
+    "enchantment.grapplemod.wallrunenchantment.desc": "Wearer can run and jump off walls.",
+    "enchantment.grapplemod.slidingenchantment.desc": "Wearer can sneak while moving quickly to slide.",
+    "enchantment.grapplemod.doublejumpenchantment.desc": "Wearer is granted a risky additional jump."
+}

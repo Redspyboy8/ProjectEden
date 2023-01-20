@@ -1,0 +1,15 @@
+{
+    "name": "Show's Over",
+    "icon": "endrem:magical_eye",
+    "advancement": "endrem:main/magical_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/magical_eye",
+            "text": "Stop the Conjurer's show and obtain the Magical Eye"
+        }
+    ]
+}

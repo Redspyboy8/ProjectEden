@@ -1,0 +1,14 @@
+{
+    "name": "Travelling Torkoal",
+    "icon": "cnb:cinder_furnace",
+    "category": "patchouli:quests/achievements/wilds",
+    "entry_color": "FF0000",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/cinder_furnace",
+            "text": "Attach a Cinder Furnace to a Cindershell for free furnace fuel."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Chaos Master",
+    "icon": "minecraft:weeping_vines",
+    "advancement": "apotheosis:enchanting/quanta50",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/quanta50",
+            "text": "Enchant an item at Max Quanta"
+        }
+    ]
+}

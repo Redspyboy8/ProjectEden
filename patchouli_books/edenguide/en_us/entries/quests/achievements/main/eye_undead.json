@@ -1,0 +1,15 @@
+{
+    "name": "The Walking Dead",
+    "icon": "endrem:undead_eye",
+    "advancement": "endrem:main/undead_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/undead_eye",
+            "text": "Show the Undead Army what for and obtain the Undead Eye"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "end": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "minecraft:the_end",
+        "to": "minecraft:overworld"
+      }
+    }
+  },  
+  "requirements": [
+      ["end"]
+  ]
+}

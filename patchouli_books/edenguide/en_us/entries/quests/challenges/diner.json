@@ -1,0 +1,11 @@
+{
+    "name": "Family Diner",
+    "icon": "farmersdelight:grilled_salmon",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build your own Restraunt and keep it in stock to make at least 3 different Nourishing Meals."
+        }
+    ]
+}

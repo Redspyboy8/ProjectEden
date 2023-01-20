@@ -1,0 +1,13 @@
+{
+    "name": "Gotta Catch 'Em All",
+    "icon": "cnb:lizard_item_desert",
+    "category": "patchouli:quests/achievements/wilds",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/catch_lizards",
+            "text": "Catch all 5 types of Lizards."
+        }
+    ]
+}

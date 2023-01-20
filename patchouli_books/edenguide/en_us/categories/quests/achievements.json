@@ -1,0 +1,6 @@
+{ 
+    "name": "Achievements", 
+    "description": "Select an Achievement to view its conditions. Some achievements are hidden.",
+    "icon": "reliquary:fortune_coin",
+    "parent" : "patchouli:quests/quests"
+}

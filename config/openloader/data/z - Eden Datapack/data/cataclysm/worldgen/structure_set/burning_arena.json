@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "cataclysm:burning_arena",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 406417795,
+    "spacing": 100,
+    "separation": 60,
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,7 @@
+{ 
+    "name": "Wilds", 
+    "icon": "alexsmobs:vine_lasso",
+    "description": "Wild World",
+    "parent" : "patchouli:quests/achievements",
+    "sortnum": 6
+}

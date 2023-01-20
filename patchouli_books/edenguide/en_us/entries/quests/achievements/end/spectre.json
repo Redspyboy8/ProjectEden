@@ -1,0 +1,14 @@
+{
+    "name": "Phantom Kites",
+    "icon": "cloudstorage:static_cloud",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/spectre",
+            "text": "Lure a Spectre with a Soul Heart, then hitch a ride with a Lead."
+        }
+    ]
+}

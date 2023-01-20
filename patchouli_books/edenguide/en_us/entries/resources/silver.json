@@ -1,0 +1,20 @@
+{
+    "name": "Silver",
+    "icon": "oreganized:raw_silver",
+    "category": "patchouli:resources",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "oreganized:silver_ingot",
+            "link_recipe": true,
+            "text": "Silver can be found deep underground, and holds many holy properties. Can be used to craft many items that excel at combating the undead."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "oreganized:silver_mirror",
+            "title": "Silver Mirror",
+            "text": "Silver has the ability to detect undead mobs. Items like the Silver Mirror as well as Silver Blocks will glow blue whenener undead are nearby."
+        }
+    ]
+}

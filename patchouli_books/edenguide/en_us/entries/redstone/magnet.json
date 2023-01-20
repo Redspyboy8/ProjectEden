@@ -1,0 +1,19 @@
+{
+    "name": "Magnet",
+    "icon": "quark:magnet",
+    "category": "patchouli:redstone",
+    "advancement": "minecraft:story/enter_the_end",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:magnet",
+            "title": "Magnet",
+            "link_recipe": true,
+            "text": "The Magnet is a powerful block that uses polarity to push and pull most metallic blocks. On the blue side, the magnet will pull suitable blocks within 8 blocks. On the red side, the magnet will push suitable blocks up to 8 blocks away"
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "quark:oddities/crafting/magnet"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Skyward City",
+    "icon": "supplementaries:globe_sepia",
+    "entry_color": "1F00FF",
+    "advancement": "repurposed_structures:city_overworld",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "repurposed_structures:city_overworld",
+            "text": "Enter an Overworld City."
+        }
+    ]
+}

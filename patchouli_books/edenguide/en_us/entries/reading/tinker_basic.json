@@ -1,0 +1,20 @@
+{
+    "name": "Basic Tinkering",
+    "icon": "tconstruct:materials_and_you",
+    "category": "patchouli:reading",
+    "advancement": "minecraft:story/upgrade_tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "tconstruct:materials_and_you",
+            "title": "Materials and You",
+            "link_recipe": true,
+            "text": "This book details ways of making better tools out of rudimentary materials. These tools can be upgraded instead of enchanted, and can be composed of multiple different materials."
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "tconstruct:common/materials_and_you",
+            "recipe2": "tconstruct:tables/pattern"
+        }
+    ]
+}

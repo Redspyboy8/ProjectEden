@@ -1,0 +1,15 @@
+{
+    "name": "Save the Whales",
+    "icon": "alexsmobs:cachalot_whale_tooth",
+    "category": "patchouli:quests/achievements/wilds",
+    "entry_color": "1F00FF",
+    "secret": true,
+    "advancement": "alexsmobs:alexsmobs/tigers_blessing",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tigers_blessing",
+            "text": "Save a beached whale from drying up and recieve a prize."
+        }
+    ]
+}

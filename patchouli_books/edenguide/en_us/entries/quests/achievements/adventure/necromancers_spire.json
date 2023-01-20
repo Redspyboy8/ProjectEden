@@ -1,0 +1,13 @@
+{
+    "name": "Necromancer's Spire",
+    "icon": "minecraft:skeleton_skull",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:necromancers_spire",
+            "text": "Enter the Necromancer's Spire. A chilling evil Lurks within..."
+        }
+    ]
+}

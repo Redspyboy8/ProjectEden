@@ -1,0 +1,13 @@
+{
+    "name": "Cut it Out!",
+    "icon": "farmersdelight:cutting_board",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/use_cutting_board",
+            "text": "Use a Cutting Board to cut apart ingridients, strip logs, or break something down."
+        }
+    ]
+}

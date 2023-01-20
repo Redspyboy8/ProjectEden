@@ -1,0 +1,15 @@
+{
+    "name": "Scourge of the Universe",
+    "icon": "alexsmobs:void_worm_beak",
+    "category": "patchouli:quests/achievements/end",
+    "entry_color": "A020F0",
+    "secret": true,
+    "advancement": "alexsmobs:alexsmobs/void_worm_summon",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/void_worm_summon",
+            "text": "Use a mysterious worm to summon the Void Worm."
+        }
+    ]
+}

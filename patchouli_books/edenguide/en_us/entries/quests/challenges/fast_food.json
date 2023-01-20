@@ -1,0 +1,11 @@
+{
+    "name": "Fast Food",
+    "icon": "farmersdelight:hamburger",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Become American and completely automate Hamburgers."
+        }
+    ]
+}

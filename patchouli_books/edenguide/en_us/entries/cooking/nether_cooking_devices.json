@@ -1,0 +1,19 @@
+{
+    "name": "Nether Cooking Devices",
+    "icon": "nethersdelight:blackstone_stove",
+    "advancement": "minecraft:nether/root",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "nethersdelight:blackstone_stove",
+            "link_recipe": true,
+            "text": "Blackstone can be used to create a nether variant of the Stove. Identical in function."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "nethersdelight:blackstone_stove"  
+        }
+
+    ]
+}

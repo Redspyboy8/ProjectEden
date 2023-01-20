@@ -1,0 +1,13 @@
+{
+    "name": "Enchanting Tower",
+    "icon": "minecraft:enchanted_book",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:enchantingtower",
+            "text": "Enter the Enchanting Tower, home of the Cleric."
+        }
+    ]
+}

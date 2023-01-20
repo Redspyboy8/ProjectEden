@@ -1,0 +1,11 @@
+{
+    "name": "Treasure Room",
+    "icon": "relics:bastion_ring",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build a Trophy room to house all of your exploits."
+        }
+    ]
+}

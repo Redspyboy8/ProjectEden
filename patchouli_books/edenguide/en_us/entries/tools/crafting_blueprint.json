@@ -1,0 +1,19 @@
+{
+    "name": "Crafting Blueprint",
+    "icon": "create:crafting_blueprint",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "create:crafting_blueprint",
+            "link_recipe": true,
+            "text": "Crafting Blueprints can make crafting a lot easier. Place on a wall, and set the blueprint to a recipe. Clicking the blueprint afterwards will automatically craft using the recipe as long as you have the materials."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "create:crafting/appliances/crafting_blueprint",
+            "title": "Blueprint",
+            "text": "The image shown on a blueprint can be optionally changed to any other item."      
+        }
+    ]
+}

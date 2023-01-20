@@ -1,0 +1,12 @@
+{
+    "name": "Slime Oasis",
+    "icon": "minecraft:slime_ball",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "tconstruct:world/earth_island",
+            "text": "Step foot on a slime island."
+        }
+    ]
+}

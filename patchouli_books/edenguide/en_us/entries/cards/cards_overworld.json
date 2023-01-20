@@ -1,0 +1,30 @@
+{
+    "name": "Overworld Set",
+    "icon": "buddycards:buddycard_pack_base",
+    "category": "patchouli:cards",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddycard_pack_base",
+            "link_recipe": true,
+            "title": "Overworld Set",
+            "text": "Also known as the 'Base Set,' these cards are found all over the overworld in chests. They also appear to be quite popular among Baby Villagers. There are 36 total cards to collect in this set."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddysteel_medal_base",
+            "link_recipe": true,
+            "title": "Overworld Medal",
+            "text": "Upon completing the set, you can use a medal with an Overworld Card in hand to be granted the Base Medal."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:binder_base"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:booster_box_base"
+        }
+    ]
+}

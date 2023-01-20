@@ -1,0 +1,46 @@
+{
+    "name": "Base Defence",
+    "icon": "blocky_siege:cannon",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "savage_and_ravage:blast_proof_plates",
+            "link_recipe": true,
+            "title": "Blast-Proof plates",
+            "text": "Tired of Creepers blowing holes in your walls? The Blast-Proof Plates are an cheap and excellent way to stop those pesky creepers from ruining your day."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "savage_and_ravage:blast_proof_plates",
+            "title": "Blast-Proof Bricks" 
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "blocky_siege:cannon",
+            "link_recipe": true,
+            "title": "Cannon",
+            "text": "Some say the best defence is offense. The Cannon is like a mini-TNT cannot without the risk of blowing up. Fuel with gunpowder, supply with Cannon Balls, and fire away."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "blocky_siege:cannon_recipe",
+            "recipe2": "blocky_siege:cannon_ball_recipe",
+            "title": "Cannon" 
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "blocky_siege:ballista_stand",
+            "link_recipe": true,
+            "title": "Ballista",
+            "text": "When powered with a redstone signal, Ballistas will fire supplied arrows automatically at any nearby hostile mobs. Mobs may attack Ballistas and are even able to break them entirely."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "blocky_siege:ballista_recipe",
+            "title": "Ballista" 
+        }
+
+
+    ]
+}

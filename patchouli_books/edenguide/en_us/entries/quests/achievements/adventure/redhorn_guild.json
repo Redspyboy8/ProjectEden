@@ -1,0 +1,13 @@
+{
+    "name": "Redhorn Guild",
+    "icon": "minecraft:wooden_sword",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:redhorn_guild",
+            "text": "Locate the Redhord Guild, a refuge and training ground."
+        }
+    ]
+}

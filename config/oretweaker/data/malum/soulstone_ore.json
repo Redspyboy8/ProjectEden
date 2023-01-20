@@ -1,0 +1,42 @@
+{
+  "oreConfig": [
+    {
+      "ore": "malum:soulstone_ore",
+      "fillers": [
+        "STONE_ORE_REPLACEABLES"
+      ],
+      "distribution": "UNIFORM",
+      "minY": 0,
+      "maxY": 256,
+      "maxVeinSize": 6,
+      "spawnRate": 35.0,
+      "discardChanceOnAirExposure": 0.7,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "SPOOKY"
+        ]
+      },
+      "replace": true
+    }, 
+    {
+        "ore": "malum:deepslate_soulstone_ore",
+        "fillers": [
+            "minecraft:deepslate"
+        ],
+        "distribution": "UNIFORM",
+        "minY": -64,
+        "maxY": 0,
+        "maxVeinSize": 8,
+        "spawnRate": 40.0,
+        "discardChanceOnAirExposure": 0.0,
+        "biomeFilters": {
+            "biomeBlacklist": [],
+            "biomeWhitelist": [
+                "SPOOKY"
+            ]
+        },
+        "replace": true
+    }
+  ]
+}

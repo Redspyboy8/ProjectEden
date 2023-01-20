@@ -1,0 +1,17 @@
+{
+    "name": "Cog Block",
+    "icon": "supplementaries:cog_block",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:cog_block",
+            "link_recipe": true,
+            "text": "Cog Blocks work exactly like Redstone Dust, but in block form. Cog Blocks transfer restone signals to adjacent Cog Blocks, and can also transfer redstone signals vertically.."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:cog_block"  
+        }
+    ]
+}

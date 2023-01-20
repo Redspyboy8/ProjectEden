@@ -1,0 +1,66 @@
+ { 
+  "criteria": {
+    "heavyhelmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:heavy_helmet"
+            ]
+          }
+        ]
+      }
+    },
+    "heavychestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:heavy_chestplate"
+            ]
+          }
+        ]
+      }
+    },
+    "heavyleggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:heavy_leggings"
+            ]
+          }
+        ]
+      }
+    },
+    "heavyboots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:heavy_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "heavyhelmet"
+    ],
+    [
+      "heavychestplate"
+    ],
+    [
+      "heavyleggings"
+    ],
+    [
+      "heavyboots"
+    ]
+  ]
+}

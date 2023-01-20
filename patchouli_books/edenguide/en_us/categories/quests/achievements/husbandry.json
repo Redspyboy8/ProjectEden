@@ -1,0 +1,7 @@
+{ 
+    "name": "Husbandry", 
+    "icon": "farmersdelight:horse_feed",
+    "description": "The World is full of friends and food!",
+    "parent" : "patchouli:quests/achievements",
+    "sortnum": 3
+}

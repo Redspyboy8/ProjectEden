@@ -1,0 +1,62 @@
+{
+    "name": "Backpacks and Chests",
+    "icon": "sophisticatedbackpacks:backpack",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "With more blocks and items to collect, its important that your storage stay sophisticated. Sophistcated Chests and Backpacks can be upgraded to store more items or to serve multiple purposes."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["patchouli:edenguide/images/backpack.png"],
+            "border": true
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "sophisticatedbackpacks:backpack",
+            "link_recipe": true,
+            "title": "Sophisticated Backpacks",
+            "text": "Backpacks are an immensely useful way of storing items on the go. Backpacks can be kept in the inventory or worn in the back slot. Backpacks can also be placed in-world by shift-placing. When placed, backpacks can interract with item transportation blocks such as Copper Pipes and Hoppers."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "sophisticatedstorage:chest",
+            "link_recipe": true,
+            "title": "Sophisticated Chests",
+            "text": "Normal Chests can be transformed into their sophisticated variant by combining that chest with a restone torch in the crafting window. These chests can be upgraded similarly to backpacks, and can also be dyed. Sophisticated Barrels also work similarly."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafttweaker:backpack",
+            "recipe2": "sophisticatedstorage:oak_barrel"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "sophisticatedstorage:oak_chest_from_vanilla_chest",
+            "recipe2": "sophisticatedstorage:oak_chest"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "sophisticatedstorage:limited_barrel_1",
+            "link_recipe": true,
+            "title": "Limited Barrels",
+            "text": "Limited Barrels work differnetly than most storage devices. Limited Barrels have one 'open' side and store 1-4 different types of item, but can store more than 1 stack of each. These items can be put in or taken out directly by clicking on this open side. The Limited Barrel is available in 4 different variants."
+        },
+        {
+            "type": "patchouli:image",
+            "images": ["patchouli:edenguide/images/limitedbarrel.png"],
+            "border": true
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "sophisticatedstorage:oak_limited_barrel_1",
+            "recipe2": "sophisticatedstorage:oak_limited_barrel_2"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "sophisticatedstorage:oak_limited_barrel_3",
+            "recipe2": "sophisticatedstorage:oak_limited_barrel_4"
+        }
+    ]
+}

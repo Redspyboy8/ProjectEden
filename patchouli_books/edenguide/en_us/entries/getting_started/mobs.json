@@ -1,0 +1,43 @@
+{
+    "name": "Harder Mobs",
+    "icon": "minecraft:zombie_head",
+    "category": "patchouli:getting_started",
+    "sortnum": -7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Monsters have been tweaked to be harder to deal with. Luckily, the most notable of changes are noted here."
+        
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "undead_expansion:rusty_pickaxe",
+            "link_recipe": false,
+            "title": "Mob Griefing",
+            "text": "Most mobs (with arms) are able to break windows, doors, and trapdoors. In addition, if they are able to locate a chest, they just might start out items. Have fun!"
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:crossbow",
+            "link_recipe": false,
+            "title": "Ranged Mobs",
+            "text": "Any mob can carry a crossbow. Mobs with crossbows will strafe away from player when reloading. "
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:creeper_head",
+            "link_recipe": false,
+            "title": "Awesome Creepers",
+            "text": "Creepers explode based on promimity instead of sight. Especially dangerous when near any sort of wall."
+        },  
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:ladder",
+            "link_recipe": false,
+            "title": "Climbing Mobs",
+            "text": "Mobs can now climb ladders. No idea why they couldn't do that before."
+        }
+        
+
+    ]
+}

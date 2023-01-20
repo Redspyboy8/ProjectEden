@@ -1,0 +1,12 @@
+{
+    "name": "Plants, no Zombies",
+    "icon": "mowziesmobs:foliaath_seed",
+    "category": "patchouli:quests/achievements/wilds",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "mowziesmobs:kill_foliaath",
+            "text": "Kill a Foliaath plant and retrieve one of its seeds."
+        }
+    ]
+}

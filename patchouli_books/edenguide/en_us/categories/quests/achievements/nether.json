@@ -1,0 +1,7 @@
+{ 
+    "name": "Nether", 
+    "icon": "minecraft:netherrack",
+    "description": "Summer Clothes Recommended",
+    "parent" : "patchouli:quests/achievements",
+    "sortnum": 1
+}

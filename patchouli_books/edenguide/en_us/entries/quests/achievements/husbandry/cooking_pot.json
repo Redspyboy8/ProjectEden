@@ -1,0 +1,13 @@
+{
+    "name": "Real Kitchen",
+    "icon": "farmersdelight:cooking_pot",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/place_cooking_pot",
+            "text": "Place a Cooking Pot over a heat source and get cooking!."
+        }
+    ]
+}

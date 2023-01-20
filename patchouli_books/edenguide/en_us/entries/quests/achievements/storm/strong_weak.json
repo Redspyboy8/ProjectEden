@@ -1,0 +1,16 @@
+{
+    "name": "The Strong Grow Weak...",
+    "icon": "supplementaries:bomb_blue",
+    "category": "patchouli:quests/achievements/storm",
+    "entry_color": "c01e96",
+    "priority": true,
+    "sortnum": -2,
+    "advancement": "witherstormmod:main/strong_grow_weak",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "witherstormmod:main/strong_grow_weak",
+            "text": "Blast the Wither Storm out of the sky."
+        }
+    ]
+}

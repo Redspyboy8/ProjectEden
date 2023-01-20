@@ -1,0 +1,12 @@
+{
+    "name": "This'll Look Pretty!",
+    "icon": "artifacts:flame_pendant",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "artifacts:amateur_archaeologist",
+            "text": "Obtain your first artifact."
+        }
+    ]
+}

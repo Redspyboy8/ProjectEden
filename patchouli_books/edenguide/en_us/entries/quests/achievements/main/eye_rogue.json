@@ -1,0 +1,15 @@
+{
+    "name": "Ancient City Stalker",
+    "icon": "endrem:rogue_eye",
+    "advancement": "endrem:main/rogue_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/rogue_eye",
+            "text": "Survive the Ancient City long enough to obtain the Rogue Eye"
+        }
+    ]
+}

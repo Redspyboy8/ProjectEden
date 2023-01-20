@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "tinker_notes": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "contenttweaker:tinker_notes"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tinker_notes"
+    ]
+  ]
+}

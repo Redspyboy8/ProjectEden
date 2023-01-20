@@ -1,0 +1,19 @@
+{
+    "name": "Power Meter",
+    "icon": "buddycards:buddysteel_power_meter",
+    "category": "patchouli:cards",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddysteel_power_meter",
+            "link_recipe": true,
+            "title": "Power Meter",
+            "text": "The Power Meter is used to track the number of cards collected. Holding a card in your offhand when using the Power Meter will instead show the number of cards needed to complete that cards's set."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:buddysteel_power_meter"
+        }
+    ]
+}

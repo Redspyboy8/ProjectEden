@@ -1,0 +1,1 @@
+summon skeleton ~ ~ ~ {Tags:["creatures_skeleton"],HandItems:[{id:"bow",Count:1b}],CustomName:'{"translate":"Enraged Skeleton"}'}

@@ -1,0 +1,16 @@
+{
+    "name": "Netherite Ingot",
+    "icon": "minecraft:netherite_ingot",
+    "category": "patchouli:resources",
+    "advancement": "minecraft:story/enter_the_nether",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:netherite_ingot",
+            "title": "Netherite",
+            "link_recipe": true,
+            "text": "Netherite is an immensely powerful alloy that has many uses. It is made up of materials found in the Nether, but the process for making it has been lost to time. Perhaps there is a workaround..."
+        }
+    ]
+}

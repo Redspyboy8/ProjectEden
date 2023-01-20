@@ -1,0 +1,14 @@
+{
+    "name": "Hang Ten",
+    "icon": "alexsmobs:straddleboard",
+    "category": "patchouli:quests/achievements/wilds",
+    "entry_color": "1F00FF",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/straddleboard",
+            "text": "Craft a Straddleboard to surf those hellish waves."
+        }
+    ]
+}

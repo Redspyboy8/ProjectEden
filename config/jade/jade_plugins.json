@@ -1,0 +1,49 @@
+{
+  "minecraft": {
+    "horse_inventory": true,
+    "total_ench_power": true,
+    "chicken_egg": true,
+    "jukebox": true,
+    "horse_stat": true,
+    "brewing_stand": false,
+    "animal_owner": true,
+    "note_block": true,
+    "inventory": false,
+    "beehive": true,
+    "player_head": false,
+    "lectern": false,
+    "effective_tool": true,
+    "harvest_tool": true,
+    "armor_stand": false,
+    "fluid": true,
+    "profession": true,
+    "item_tooltip": false,
+    "breaking_progress": false,
+    "tnt_stability": false,
+    "ench_power": true,
+    "mob_breeding": false,
+    "item_frame": false,
+    "crop_progress": false,
+    "effects": false,
+    "command_block": false,
+    "display_furnace_contents": false,
+    "mob_growth": false,
+    "painting": true,
+    "harvest_tool_new_line": false,
+    "spawner_type": false,
+    "redstone": true,
+    "fe": true
+  },
+  "strawgolem": {
+    "lifespan": true,
+    "hunger": true
+  },
+  "jade": {
+    "block_states": false,
+    "entity_armor": false,
+    "registry_name": false,
+    "item_mod_name": false,
+    "mod_name": false,
+    "entity_hp": true
+  }
+}

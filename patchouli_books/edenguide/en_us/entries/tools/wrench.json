@@ -1,0 +1,18 @@
+{
+    "name": "Wrench",
+    "icon": "supplementaries:wrench",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:wrench",
+            "link_recipe": true,
+            "text": "The Wrench is an extremly useful tool for anyone aiming to build anything. The wrench can rotate any rotatable blocks. Hold shift to rotate counter-clockwise."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:wrench",
+            "title": "Wrench"       
+        }
+    ]
+}

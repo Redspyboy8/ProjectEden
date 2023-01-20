@@ -1,0 +1,39 @@
+{
+  "oreConfig": [
+    {
+      "ore": "tinkers_reforged:red_beryl_ore",
+      "fillers": ["minecraft:stone"],
+      "distribution": "TRIANGLE",
+      "minY": -16,
+      "maxY": 12,
+      "maxVeinSize": 3,
+      "spawnRate": 6.0,
+      "discardChanceOnAirExposure": 0.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    },
+
+    {
+      "ore": "tinkers_reforged:deepslate_red_beryl_ore",
+      "fillers": ["minecraft:deepslate"],
+      "distribution": "TRIANGLE",
+      "minY": -16,
+      "maxY": 12,
+      "maxVeinSize": 3,
+      "spawnRate": 6.0,
+      "discardChanceOnAirExposure": 0.0,
+      "biomeFilters": {
+        "biomeBlacklist": [],
+        "biomeWhitelist": [
+          "OVERWORLD"
+        ]
+      },
+      "replace": true
+    }
+  ]
+}

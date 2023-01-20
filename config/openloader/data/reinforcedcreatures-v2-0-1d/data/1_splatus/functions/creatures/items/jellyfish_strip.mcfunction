@@ -1,0 +1,1 @@
+give @s minecraft:dried_kelp{CustomModelData:27012,display:{Name:'{"translate":"Jellyfish Strip","italic":false}',Lore:['{"translate":"Reinforced Creatures","color":"#676e75","italic": true}']},CreaturesJellyfishStrip:1}

@@ -1,0 +1,44 @@
+{
+    "name": "Books of the Forge",
+    "icon": "tconstruct:mighty_smelting",
+    "category": "patchouli:reading",
+    "advancement": "cataclysm:kill_ignis",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Smeltery",
+            "text":"With the defeat of Ignis, the sercrets of the Forge have been revealed! This series of books details exactly how to make differnt types of Smelteries. Smelteries can double yield from melted ores, forge metal toolparts for your Tinker's tools, and even create strong alloys, including Netherite."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tconstruct:puny_smelting",
+            "title": "Puny Smelting",
+            "link_recipe": true,
+            "text": "To get started, pick up the 'Puny Smelting' book, which details how to make a smaller smeltery."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "tconstruct:mighty_smelting",
+            "title": "Mighty Smelting",
+            "link_recipe": true,
+            "text": "This book detail how to make a fully-fledged Smeltery. To create, use a Melter to pour Seared Stone onto a book (don't ask how that works)."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tconstruct:fantastic_foundry",
+            "title": "Fantastic Foundry",
+            "link_recipe": true,
+            "text": "To become a true blacksmith, seek out a 'Fantastic Foundry!' Foundries cannot alloy, but yields byproducts from melting ores and can store a lot more molten metal."
+        },
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "recipestages:tconstruct_common/puny_smelting",
+            "recipe2": "recipestages:tconstruct_smeltery/seared/grout"
+        },
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "recipestages:tconstruct_common/fantastic_foundry",
+            "recipe2": "recipestages:tconstruct_smeltery/scorched/nether_grout"
+        }
+    ]
+}

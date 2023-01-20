@@ -1,0 +1,13 @@
+{
+    "name": "Fisherman's Lodge",
+    "icon": "reliquary:rod_of_lyssa",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:fishermans_lodge",
+            "text": "Enter the Fisherman's Lodge, the humble abode of a legendary angler."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+	"type": "apotheosis:potion_charm",
+	"conditions": [{
+		"type": "apotheosis:module",
+		"module": "potion"
+	}],
+	"recipe": [
+		[{
+				"item": "byg:therium_shard"
+			},
+			{
+				"item": "byg:therium_shard"
+			},
+			{
+				"item": "byg:therium_shard"
+			}
+		],
+		[
+			"potion",
+			{
+                "item": "minecraft:beacon"
+            },
+			"potion"
+		],
+		[{
+				"item": "byg:therium_shard"
+			},
+			{
+				"item": "byg:therium_shard"
+			},
+			{
+				"item": "byg:therium_shard"
+			}
+		]
+	]
+}

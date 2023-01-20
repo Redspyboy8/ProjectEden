@@ -1,0 +1,1 @@
+summon armor_stand ~ ~ ~ {ShowArms:1b,Pose:{RightArm:[45f,0f,0f]},HandItems:[{id:"minecraft:golden_sword",Count:1b}],Invisible:1b,Invulnerable:1b,NoGravity:1b,NoBasePlate:1b,Tags:["creatures_winged_piglin_swords"]}

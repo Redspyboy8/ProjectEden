@@ -1,0 +1,14 @@
+{
+    "name": "Lockdown Underground",
+    "icon": "minecraft:iron_bars",
+    "entry_color": "1F00FF",
+    "advancement": "repurposed_structures:bastion_underground",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "repurposed_structures:bastion_underground",
+            "text": "Enter an Underground Bastion."
+        }
+    ]
+}

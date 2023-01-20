@@ -1,0 +1,14 @@
+{
+    "name": "Labyrinth of the Serpent",
+    "icon": "alexsmobs:shed_snake_skin",
+    "entry_color": "1F00FF",
+    "advancement": "idas:labyrinth",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:labyrinth",
+            "text": "Enther the Labyrinth of the Serpent. May the fates be on your side..."
+        }
+    ]
+}

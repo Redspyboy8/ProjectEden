@@ -1,0 +1,20 @@
+execute as @e[tag=creatures_mage,scores={creatures_time=120}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run data merge entity @s {NoAI:1b}
+execute as @e[tag=creatures_mage,scores={creatures_time=120..162}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run particle large_smoke ~ ~1 ~ .3 .5 .3 .05 1 normal
+execute as @e[tag=creatures_mage,scores={creatures_time=130}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^1
+execute as @e[tag=creatures_mage,scores={creatures_time=132}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^2
+execute as @e[tag=creatures_mage,scores={creatures_time=134}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^3
+execute as @e[tag=creatures_mage,scores={creatures_time=136}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^4
+execute as @e[tag=creatures_mage,scores={creatures_time=138}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^5
+execute as @e[tag=creatures_mage,scores={creatures_time=140}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^6
+execute as @e[tag=creatures_mage,scores={creatures_time=142}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^7
+execute as @e[tag=creatures_mage,scores={creatures_time=144}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^8
+execute as @e[tag=creatures_mage,scores={creatures_time=146}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^9
+execute as @e[tag=creatures_mage,scores={creatures_time=148}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^10
+execute as @e[tag=creatures_mage,scores={creatures_time=150}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^11
+execute as @e[tag=creatures_mage,scores={creatures_time=152}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^12
+execute as @e[tag=creatures_mage,scores={creatures_time=154}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^13
+execute as @e[tag=creatures_mage,scores={creatures_time=156}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^14
+execute as @e[tag=creatures_mage,scores={creatures_time=158}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^15
+execute as @e[tag=creatures_mage,scores={creatures_time=160}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^15
+execute as @e[tag=creatures_mage,scores={creatures_time=162}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run summon evoker_fangs ^ ^ ^15
+execute as @e[tag=creatures_mage,scores={creatures_time=162}] at @s if entity @p[distance=..20,gamemode=!creative,gamemode=!spectator,tag=!creatures_is_wearing_gold] run data merge entity @s {NoAI:0b}

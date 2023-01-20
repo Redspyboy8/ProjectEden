@@ -1,0 +1,81 @@
+{
+    "criteria": {
+    "desert": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cnb:lizard_item_desert"
+            ]
+          }
+        ]
+      }
+    },
+    "jungle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cnb:lizard_item_jungle_2"
+            ]
+          }
+        ]
+      }
+    },
+    "jungletwo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cnb:lizard_item_jungle"
+            ]
+          }
+        ]
+      }
+    },
+    "mushroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cnb:lizard_item_mushroom"
+            ]
+          }
+        ]
+      }
+    },
+    "deserttwo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cnb:lizard_item_desert_2"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "desert"
+    ],
+    [
+      "deserttwo"
+    ],
+    [
+      "jungle"
+    ],
+    [
+      "jungletwo"
+    ],
+    [
+      "mushroom"
+    ]
+  ]
+}

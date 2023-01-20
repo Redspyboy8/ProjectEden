@@ -1,0 +1,19 @@
+{
+    "name": "Wither's Wait",
+    "icon": "minecraft:wither_skeleton_skull",
+    "advancement": "eden:progress/wither_skull_check",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Wither's Wait",
+            "text": " $(o)The destruction's power of the Wither has been sealed away to the Nether. The destructive influence of the Wither warps Skeletons into bloodthirsty warriors, which hunt the Piglins of the Nether. You wonder if you already know what to do.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/wither.png"],
+            "border": true
+        }
+    ]
+}

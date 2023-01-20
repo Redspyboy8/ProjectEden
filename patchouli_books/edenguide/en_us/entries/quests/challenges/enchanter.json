@@ -1,0 +1,11 @@
+{
+    "name": "Local Enchanter",
+    "icon": "minecraft:enchanted_book",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build a machine that can unenchant any tool and sort its enchantments."
+        }
+    ]
+}

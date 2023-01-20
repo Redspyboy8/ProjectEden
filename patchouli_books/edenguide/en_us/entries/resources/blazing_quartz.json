@@ -1,0 +1,20 @@
+{
+    "name": "Blazing Quartz",
+    "icon": "malum:blazing_quartz",
+    "category": "patchouli:resources",
+    "advancement": "minecraft:story/enter_the_nether",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "malum:blazing_quartz",
+            "title": "Blazing Quartz",
+            "link_recipe": false,
+            "text": "This fiery crystal is imbued with the power of Blazes, and can only be found in the Nether. It can be used to make brighter torches, or be used as fuel in a furnace. Sanding might produce some blaze powder. You can trade this with Piglins for more common items."
+        }, 
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "malum:blazing_torch"
+        }
+    ]
+}

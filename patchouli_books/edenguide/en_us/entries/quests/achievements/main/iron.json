@@ -1,0 +1,13 @@
+{
+    "name": "Good Old Iron",
+    "icon": "minecraft:iron_ingot",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "8ba811",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:story/smelt_iron",
+            "text": "Obtain Iron."
+        }
+    ]
+}

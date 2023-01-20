@@ -1,0 +1,6 @@
+{ 
+    "name": "Quests", 
+    "description": "A compilation of challenges for you to beat! KEY: $(li) $(bold)Achievements$() - Your classic run-of-the-mill advancements in book form.$() $(li)$(bold)Challenges$() - Special challenges outside of the the scope of achievements. After completing challenge, mark 'complete' in given challenge.$()",
+    "icon": "botania:cosmetic_questgiver_mark",
+    "sortnum": 9
+}

@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "gems": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "byg:ametrine_gems"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "gems"
+    ]
+  ]
+}

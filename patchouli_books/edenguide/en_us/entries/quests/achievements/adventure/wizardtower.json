@@ -1,0 +1,13 @@
+{
+    "name": "Wizard Tower",
+    "icon": "create:rose_quartz",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:wizardtower",
+            "text": "Locate the Wizard Tower, a Mage's Spire."
+        }
+    ]
+}

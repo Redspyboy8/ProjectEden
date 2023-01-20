@@ -1,0 +1,20 @@
+{
+    "name": "Animal Dictionary",
+    "icon": "alexsmobs:animal_dictionary",
+    "advancement": "minecraft:husbandry/tame_an_animal",
+    "category": "patchouli:reading",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "alexsmobs:animal_dictionary",
+            "link_recipe": true,
+            "text": "This book serves as an encyclopedia for many of the unfamiliar animals around the world. Some are hostile, but others can be tamed in their own unique ways."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "alexsmobs:animal_dictionary",
+            "title": "Animal Dictionary",  
+            "text": "$(o)Guide to Alex's Mobs$()"     
+        }
+    ]
+}

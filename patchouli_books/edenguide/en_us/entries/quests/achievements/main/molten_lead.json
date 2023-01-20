@@ -1,0 +1,13 @@
+{
+    "name": "Melting Point",
+    "icon": "oreganized:molten_lead_bucket",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "8ba811",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "oreganized:story/melting_point",
+            "text": "Pick up Molten Lead from a Cauldron. Keep iron boots handy."
+        }
+    ]
+}

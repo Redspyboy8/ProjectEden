@@ -1,0 +1,13 @@
+{
+    "name": "Hunter's Best Friend",
+    "icon": "alloyed:steel_knife",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/craft_knife",
+            "text": "Craft a knife to scavenge extra materials from plants and animals."
+        }
+    ]
+}

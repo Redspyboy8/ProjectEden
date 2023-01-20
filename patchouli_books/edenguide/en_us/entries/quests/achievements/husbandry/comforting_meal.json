@@ -1,0 +1,13 @@
+{
+    "name": "Comforting Meal",
+    "icon": "farmersrespite:dandelion_tea",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/eat_comfort_food",
+            "text": "Eat a Comforting Meal, which provides unconditional natural regeneration."
+        }
+    ]
+}

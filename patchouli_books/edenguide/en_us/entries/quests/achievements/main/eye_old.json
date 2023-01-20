@@ -1,0 +1,15 @@
+{
+    "name": "Old and Gold",
+    "icon": "endrem:old_eye",
+    "advancement": "endrem:main/old_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/old_eye",
+            "text": "See through the Desert Temple's tricks and obtain the Old Eye."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Redstone Illuminator",
+    "icon": "supplementaries:redstone_illuminator",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:redstone_illuminator",
+            "link_recipe": true,
+            "text": "Redstone Illuminators are automatically lit, and dim when powered. The extent of the dimming is dependent of the redstone strength."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "supplementaries:redstone_illuminator"  
+        }
+    ]
+}

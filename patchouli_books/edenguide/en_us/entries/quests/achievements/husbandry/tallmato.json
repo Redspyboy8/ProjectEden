@@ -1,0 +1,13 @@
+{
+    "name": "Tall-Mato",
+    "icon": "farmersdelight:tomato",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/harvest_ropelogged_tomato",
+            "text": "Harvest a Tomato from a vine growing on Rope."
+        }
+    ]
+}

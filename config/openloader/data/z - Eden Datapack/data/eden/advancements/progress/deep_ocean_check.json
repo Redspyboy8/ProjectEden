@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biome": "minecraft:deep_ocean"
+          }
+        }
+      }
+    },
+    "trade": {
+        "trigger": "minecraft:villager_trade"
+    }
+  },  
+  "requirements": [
+      ["ocean"],
+      ["trade"]
+  ]
+}

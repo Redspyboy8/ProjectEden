@@ -1,0 +1,30 @@
+{
+    "name": "Soul Compost and Soil",
+    "advancement": "minecraft:nether/root",
+    "icon": "nethersdelight:soul_compost",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "nethersdelight:soul_compost",
+            "link_recipe": true,
+            "title": "Soul Compost",
+            "text": "Soul Compost is the nether variant of the Organic Compost. Soul Compost will eventually compost into Rich Soul Soil. The composting process is sped up if in the Nether, next to fire, next to lava, or adjacent to Crimson and/or Warped Crimson Fungi"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "nethersdelight:rich_soul_soil",
+            "link_recipe": true,
+            "title": "Soul Rich Soil",
+            "text": "Similar to its counterpart, the Rich Soul Soil boosts the speed of crop growth. This soil doesn't need to be tilled to plant. Can support Nether crops such as Nether Warts and Propelplants."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "nethersdelight:soul_compost_from_hoglin_hide"
+        },        
+        {
+            "type": "patchouli:crafting",
+            "recipe": "nethersdelight:soul_compost_from_warped_roots"
+        }
+    ]
+}  

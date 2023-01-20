@@ -1,0 +1,13 @@
+{
+    "name": "Hunter's Cabin",
+    "icon": "alexsmobs:moose_antler",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:hunters_cabin",
+            "text": "Enter the Hunter's Cabin, the Huntsman of the Woods."
+        }
+    ]
+}

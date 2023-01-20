@@ -1,0 +1,14 @@
+{
+    "name": "Fallen War Machine",
+    "icon": "cataclysm:infernal_forge",
+    "category": "patchouli:quests/achievements/nether",
+    "advancement": "minecraft:nether/root",
+    "entry_color": "FF0000",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "cataclysm:kill_monstrosity",
+            "text": "Find a Soul Blacksmith and defeat the Nether Monstrosity."
+        }
+    ]
+}

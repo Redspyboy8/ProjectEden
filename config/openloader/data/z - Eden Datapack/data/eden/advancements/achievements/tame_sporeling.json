@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "sporeling": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+            "type": "cnb:sporeling"
+        }
+      }
+    }
+  },  
+  "requirements": [
+      ["sporeling"]
+  ]
+}

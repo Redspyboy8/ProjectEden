@@ -1,0 +1,33 @@
+{
+    "name": "Comforts",
+    "icon": "comforts:sleeping_bag_white",
+    "category": "patchouli:tools",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "comforts:sleeping_bag_white",
+            "link_recipe": false,
+            "title": "Sleeping Bags",
+            "text": "Sleeping bags can be used to sleep the night without setting your spawnpoint. Sleeping bags can me made with any color wool to create dyed sleeping bags."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "comforts:sleeping_bag_white",
+            "title": "Sleeping Bag"    
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "comforts:hammock_white",
+            "link_recipe": false,
+            "title": "Hammock",
+            "text": "Hammocks can be set up by placing cloth in between Rope and Nails. Taking a nap in a Hammock will skip the day."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "comforts:hammock_white",
+            "recipe2": "comforts:rope_and_nail_shapeless",
+            "title": "Hammocks" 
+        } 
+
+    ]
+}

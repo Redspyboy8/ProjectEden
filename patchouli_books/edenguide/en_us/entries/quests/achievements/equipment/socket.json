@@ -1,0 +1,13 @@
+{
+    "name": "Bejeweled",
+    "icon": "apotheosis:gem{variant:10}",
+    "advancement": "apotheosis:affix/gem",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:affix/socket",
+            "text": "Find a gem and use a Smithing Table to socket it into affixed Armor."
+        }
+    ]
+}

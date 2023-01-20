@@ -1,0 +1,13 @@
+{
+    "name": "Seems Quite Rare",
+    "icon": "minecraft:golden_sword",
+    "advancement": "apotheosis:affix/root",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:affix/rare",
+            "text": "Obtain equipment with a Rare Affix."
+        }
+    ]
+}

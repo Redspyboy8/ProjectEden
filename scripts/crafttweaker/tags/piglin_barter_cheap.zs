@@ -1,0 +1,1 @@
+<tag:items:sapience:piglins_barter_cheap>.add(<item:malum:blazing_quartz>);

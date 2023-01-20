@@ -1,0 +1,20 @@
+{
+    "name": "Encyclopedia Arcana",
+    "icon": "malum:encyclopedia_arcana",
+    "advancement": "eden:progress/malum_start",
+    "category": "patchouli:reading",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "malum:encyclopedia_arcana",
+            "link_recipe": true,
+            "text": "It seems that whoever you just grave-robbed was a master of the dark arts. It seems they went about reaping the souls of the innocent in order to preform twisted rituals, one of which seemed to have raised the dead. Who would ever do such a thing..."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "recipestages:malum_encyclopedia_arcana",
+            "title": "Encyclopedia Arcana",    
+             "text": "$(o)Unlocks the Malum mod$()"  
+        }
+    ]
+}

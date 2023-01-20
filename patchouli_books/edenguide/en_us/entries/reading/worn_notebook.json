@@ -1,0 +1,20 @@
+{
+    "name": "Worn Notebook",
+    "icon": "ars_nouveau:worn_notebook",
+    "advancement": "eden:progress/worn_notebook_check",
+    "category": "patchouli:reading",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "ars_nouveau:worn_notebook",
+            "link_recipe": true,
+            "text": "It seems you've uncovered what the Pillagers were looking for. The Worn Notebook seems to be from the time of The Ancients, and details ways to create powerful spells using arcana mana. Good thing this didn't fall into the wrong hands."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "recipestages:ars_nouveau_worn_notebook",
+            "title": "Worn Notebook",    
+             "text": "$(o)Unlocks the Ars Nouveau mod. NOTE: Recipes not rendering in book, use JEI for crafting-table recipes instead.$()"  
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "End Set",
+    "icon": "buddycards:buddycard_pack_end",
+    "advancement": "minecraft:story/enter_the_end",
+    "category": "patchouli:cards",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddycard_pack_end",
+            "link_recipe": true,
+            "title": "End Set",
+            "text": "Not even the ancient seal meant to protect the Overworld from calamity could stop Buddycards taking the end by storm. These cards can be found all over End Cities, and are also popular among Enderlings, the youth of the end. Sealed away for so long, the Enderlings are willing to trade your foreign cards for their End cards. There are a total of 27 cards to collect."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycards:buddysteel_medal_end",
+            "link_recipe": true,
+            "title": "End Medal",
+            "text": "Upon completing the set, you can use a medal with an End Card in hand to be granted the End Medal."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:binder_end"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycards:booster_box_end"
+        }
+    ]
+}

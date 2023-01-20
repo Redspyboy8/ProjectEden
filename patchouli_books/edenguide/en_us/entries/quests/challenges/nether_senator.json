@@ -1,0 +1,14 @@
+{
+    "name": "Standing Here...",
+    "icon": "undead_expansion:hf_murasama_blade",
+    "category": "patchouli:quests/challenges",
+    "sortnum": 1,
+    "entry_color": "1F00FF",
+    "advancement": "cataclysm:kill_ignis",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Fight Ignis with only 1 Murasama Blade in your hotbar, and nothing else."
+        }
+    ]
+}

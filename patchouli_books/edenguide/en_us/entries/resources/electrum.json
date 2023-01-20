@@ -1,0 +1,19 @@
+{
+    "name": "Electrum",
+    "icon": "oreganized:electrum_ingot",
+    "category": "patchouli:resources",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "oreganized:electrum_ingot",
+            "link_recipe": true,
+            "text": "An alloy of Gold and Silver, Electrum is perfect for creating swift and lightweight tools. Electrum can be combined with Diamond tools and armor for a faster variant of the tool. In addition, Electrum armor is lighter and grands a minor speed boost."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "title": "Electrum Ingot",
+            "recipe": "oreganized:electrum_ingot"
+        }
+    ]
+}

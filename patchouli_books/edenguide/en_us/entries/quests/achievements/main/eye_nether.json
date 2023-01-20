@@ -1,0 +1,15 @@
+{
+    "name": "Smoldered Cinders",
+    "icon": "endrem:nether_eye",
+    "advancement": "endrem:main/nether_eye",
+    "category": "patchouli:quests/achievements/main",
+    "entry_color": "1F00FF",
+    "sortnum": -1,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "endrem:main/nether_eye",
+            "text": "Defeat the mighty Ignis and obtain the Nether Eye"
+        }
+    ]
+}

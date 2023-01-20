@@ -1,0 +1,19 @@
+{
+    "name": "Ocean's Oasis",
+    "icon": "seadwellers:broken_trident",
+    "advancement": "eden:progress/deep_ocean_check",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Ocean's Oasis",
+            "text": " $(o)You hear rumors from the sailors of the village regarding some sort of Grand Ocean Monument. It is rumored that it once stood as the capital of some great oceanic nation that fell into ruin. The monument is now fiercely guarded by strange sea creatures, and no sailor dare cross them. You wonder if it's time for a swim.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/trident.png"],
+            "border": true
+        }
+    ]
+}

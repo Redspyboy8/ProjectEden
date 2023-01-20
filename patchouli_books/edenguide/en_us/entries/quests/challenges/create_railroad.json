@@ -1,0 +1,14 @@
+{
+    "name": "Transcontinental Railroad",
+    "icon": "create:track",
+    "category": "patchouli:quests/challenges",
+    "advancement": "eden:progress/create_start",
+    "sortnum": 2,
+    "entry_color": "FFA500",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Build a railroad that connects every single place where an End Eye can be obtained."
+        }
+    ]
+}

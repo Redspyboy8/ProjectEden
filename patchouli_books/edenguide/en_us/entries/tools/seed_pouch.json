@@ -1,0 +1,20 @@
+{
+    "name": "Seed Pouch",
+    "icon": "quark:seed_pouch",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "category": "patchouli:tools",
+    "priority": true,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:seed_pouch",
+            "link_recipe": true,
+            "text": "The Seed Pouch is a bundle-like item that can hold a massive amount of any plantable item. Hover over it with seeds or sapplings in the inventory to place them into the pouch. You can use the pouch directly to plant, and shift-placing seeds will plant them in a 3x3 area."
+        }, 
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:tools/crafting/seed_pouch",
+            "title": "Seed Pouch"      
+        }
+    ]
+}

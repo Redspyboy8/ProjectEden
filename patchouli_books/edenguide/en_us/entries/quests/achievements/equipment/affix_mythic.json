@@ -1,0 +1,14 @@
+{
+    "name": "Titan-Forged",
+    "icon": "minecraft:netherite_sword",
+    "advancement": "apotheosis:affix/root",
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:affix/mythic",
+            "text": "Obtain equipment with a Mythic Affix."
+        }
+    ]
+}

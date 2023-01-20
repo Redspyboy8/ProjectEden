@@ -1,0 +1,22 @@
+{
+    "oreConfig": [
+    {
+        "ore": "tinkers_reforged:deepslate_hureaulite_ore",
+        "fillers": [
+        "minecraft:deepslate"
+      ],
+        "distribution": "UNIFORM",
+        "minY": -32,
+        "maxY": 0,
+        "maxVeinSize": 4,
+        "spawnRate": 11.0,
+        "discardChanceOnAirExposure": 0.0,
+        "biomeFilters": {
+            "biomeBlacklist": [],
+            "biomeWhitelist": [
+            "HOT"
+            ]
+        }
+    }
+]
+}

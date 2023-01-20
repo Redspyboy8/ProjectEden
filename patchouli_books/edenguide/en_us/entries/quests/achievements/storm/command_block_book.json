@@ -1,0 +1,16 @@
+{
+    "name": "Sign of Hope",
+    "icon": "witherstormmod:command_block_book",
+    "category": "patchouli:quests/achievements/storm",
+    "entry_color": "c01e96",
+    "priority": true,
+    "sortnum": -2,
+    "advancement": "witherstormmod:main/infinite_potential",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "witherstormmod:main/infinite_potential",
+            "text": "Slay the Symbiont and obtain the revered Command Block Book."
+        }
+    ]
+}

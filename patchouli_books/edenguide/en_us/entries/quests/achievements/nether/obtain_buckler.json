@@ -1,0 +1,14 @@
+{
+    "name": "Chargin' Targe",
+    "icon": "bigbrain:buckler",
+    "category": "patchouli:quests/achievements/nether",
+    "entry_color": "FF0000",
+    "advancement": "minecraft:nether/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "minecraft:nether/obtain_buckler",
+            "text": "Obtain a Buckler of an angry Brute Piglin."
+        }
+    ]
+}

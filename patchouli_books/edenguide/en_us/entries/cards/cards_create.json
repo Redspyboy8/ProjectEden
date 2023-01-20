@@ -1,0 +1,45 @@
+{
+    "name": "Create Set",
+    "icon": "buddycardsexp:buddycard_pack_create",
+    "advancement": "eden:progress/create_start",
+    "category": "patchouli:cards",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddycard_pack_create",
+            "link_recipe": true,
+            "title": "Create Set",
+            "text": "Everyone knows engineers love trading cards. Create sets need to be assembled at a factory. There are a total of 27 cards to collect."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:buddysteel_medal_create",
+            "link_recipe": true,
+            "title": "Create Medal",
+            "text": "Upon completing the set, you can use a medal with a Create Card in hand to be granted the Create Medal."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:shredded_buddycard",
+            "link_recipe": true,
+            "title": "Buddycard Assembly I",
+            "text": "Assembling Buddycards requires Buddycards (???). To make Shredded Buddycards, run any Buddycard or Buddycard set through a Crushing Wheel. Shredded Buddycards can also be made by cutting at a Cutting Board."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "buddycardsexp:recycled_buddycard",
+            "link_recipe": true,
+            "title": "Buddycard Assembly II",
+            "text": "Create Recycled Buddycards by mixing two Shredded Buddycards and some water at a Mechanical Mixer. To create a Create pack, sequence this Recycled Buddycard through one Deployer and some addition water several times to assemble."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycardsexp:create/binder_create"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "buddycardsexp:create/booster_box_create"
+        }
+    ]
+}

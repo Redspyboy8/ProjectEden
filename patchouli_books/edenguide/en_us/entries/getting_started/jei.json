@@ -1,0 +1,18 @@
+{
+    "name": "JEI and You",
+    "icon": "minecraft:knowledge_book",
+    "category": "patchouli:getting_started",
+    "sortnum": -9,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Just Enough Items is the go-to for any recipes in this pack. While this book does indeed include many recipes, the JEI menu will include any and all recipes that you have access to, and will update when new recipes become available."
+        
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The JEI menu is on the left side of the inventory. Left-clicking or pressing R on an item will show all recipes making that item. Right-clicking or pressing U on an item will show all items that include said item in its recipe. Pressing A on an item will bookmark it, allowing for easy access to it later."
+        }
+
+    ]
+}

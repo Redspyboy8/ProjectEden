@@ -1,0 +1,4 @@
+execute unless block ~ ~ ~ lava unless block ~ ~-1 ~ lava unless block ~ ~-2 ~ lava run tellraw @s {"translate": "A lake magma can only be summoned inside a pool of lava","color": "red"}
+execute if block ~ ~ ~ lava run summon magma_cube ~ ~ ~ {Size:4,Tags:["creatures_lake_magma"],Attributes:[{Name:"minecraft:generic.max_health",Base:200.0}],Health:200f,NoAI:1b,ActiveEffects:[{Id:14b,Duration:40}]}
+execute if block ~ ~-1 ~ lava run summon magma_cube ~ ~ ~ {Size:4,Tags:["creatures_lake_magma"],Attributes:[{Name:"minecraft:generic.max_health",Base:200.0}],Health:200f,NoAI:1b,ActiveEffects:[{Id:14b,Duration:40}]}
+execute if block ~ ~-2 ~ lava run summon magma_cube ~ ~ ~ {Size:4,Tags:["creatures_lake_magma"],Attributes:[{Name:"minecraft:generic.max_health",Base:200.0}],Health:200f,NoAI:1b,ActiveEffects:[{Id:14b,Duration:40}]}

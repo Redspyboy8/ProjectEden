@@ -1,0 +1,66 @@
+ { 
+  "criteria": {
+    "divinehelmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:divine_helmet"
+            ]
+          }
+        ]
+      }
+    },
+    "divinechestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:divine_chestplate"
+            ]
+          }
+        ]
+      }
+    },
+    "divineleggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:divine_leggings"
+            ]
+          }
+        ]
+      }
+    },
+    "divineboots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "immersive_armors:divine_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "divinehelmet"
+    ],
+    [
+      "divinechestplate"
+    ],
+    [
+      "divineleggings"
+    ],
+    [
+      "divineboots"
+    ]
+  ]
+}

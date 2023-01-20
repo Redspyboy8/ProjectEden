@@ -1,0 +1,14 @@
+{
+    "name": "Narnia",
+    "icon": "ars_nouveau:wixie_charm",
+    "category": "patchouli:quests/challenges",
+    "advancement": "eden:progress/worn_notebook_check",
+    "entry_color": "FFC0CB",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Create a small village for your magical critters."
+        }
+    ]
+}

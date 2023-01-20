@@ -1,0 +1,20 @@
+{
+    "name": "Feeding Trough",
+    "icon": "quark:feeding_trough",
+    "advancement": "minecraft:husbandry/breed_an_animal",
+    "category": "patchouli:cooking",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "quark:feeding_trough",
+            "link_recipe": true,
+            "text": "Feeding Troughs, when supplied with food, will feed nearby animals as if fed by a player. Animals that feed from the trough may need more than one bit of food before entering 'love mode'. Animals bred this way won't produce XP. This block is treated as a fence for animals"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "quark:automation/crafting/feeding_trough",
+            "text": "Do note that if there are more than 32 animals in a 10-block radius of the trough, animals will still eat but never breed."  
+        }
+
+    ]
+}

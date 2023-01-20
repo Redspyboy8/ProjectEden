@@ -1,0 +1,19 @@
+{
+    "name": "Trickster's Theatre",
+    "icon": "conjurer_illager:conjurer_hat",
+    "advancement": "eden:progress/dark_forest_check",
+    "category": "patchouli:end",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Trickster's Theatre",
+            "text": " $(o)Among the villagers, you hear rumors about an insurgent Evoker mad with power. Empowered with some strange artifact, this mad Evoker fled the Pillager Fortress, and created a twisted Theatre in the darkest depths of the forsest. You wonder if you should attend the show.$()"
+        },
+        {
+            "type": "patchouli:image", 
+            "images": ["patchouli:edenguide/images/theatre.png"],
+            "border": true
+        }
+    ]
+}

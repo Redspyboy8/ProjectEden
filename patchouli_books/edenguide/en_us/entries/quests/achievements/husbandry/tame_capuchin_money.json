@@ -1,0 +1,13 @@
+{
+    "name": "Monkey Mode",
+    "icon": "alexsmobs:banana_peel",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_capuchin",
+            "text": "Tame a Capuchin Monkey."
+        }
+    ]
+}

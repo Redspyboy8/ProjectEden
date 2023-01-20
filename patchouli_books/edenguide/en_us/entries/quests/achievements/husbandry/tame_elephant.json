@@ -1,0 +1,13 @@
+{
+    "name": "Elephant",
+    "icon": "quark:flowering_azalea_hedge",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/tame_elephant",
+            "text": "Tame an elephant."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Spin to Win",
+    "icon": "supplementaries:globe",
+    "advancement": "supplementaries:adventure/globe",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "supplementaries:adventure/globe",
+            "text": "Spin a globe at lightning-fast speeds."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Doors",
+    "icon": "supplementaries:gold_door",
+    "category": "patchouli:redstone",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:gold_door",
+            "title": "Gold Door",
+            "link_recipe": true,
+            "text": "The Gold Door works similarly to a wooden door until powered by redstone. When powered, the door will lock in place and prevent players from opening."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:silver_door",
+            "title": "Silver Door",
+            "link_recipe": true,
+            "text": "The Silver Door is the inverse of the Gold Door: The door will not be able to be opened by players until powered by a redstone signal. When Powered, the door can be freely opened and closed."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:lead_door",
+            "title": "Lead Door",
+            "link_recipe": true,
+            "text": "Lead Doors work differently than most doors. They cannot be opened via redstone, and can only be opened manually after multiple attempts. Mobs have a hard time breaking down this door. Cannot be opened by Villagers."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "supplementaries:netherite_door",
+            "title": "Netherite Door",
+            "link_recipe": true,
+            "text": "Netherite Doors are made by combining Netherite Scrap with a Gold Door in a Smithing Table. Netherite Doors can be assigned a key, and will only open if a player has said key in their inventory. Cannot be opened by Villagers."
+        }, 
+        
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "supplementaries:gold_door",
+            "recipe2": "supplementaries:silver_door"
+        },
+        {
+            "type": "patchouli:crafting", 
+            "recipe": "supplementaries:lead_door"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Beast Boost",
+    "icon": "alexsmobs:warped_muscle",
+    "category": "patchouli:quests/achievements/wilds",
+    "entry_color": "1F00FF",
+    "secret": true,
+    "advancement": "alexsmobs:alexsmobs/warped_mosco_kill",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/warped_mosco_kill",
+            "text": "Summon and defeat a Warped Mosco."
+        }
+    ]
+}

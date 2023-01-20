@@ -1,0 +1,14 @@
+{
+    "name": "Capsid-19",
+    "icon": "alexsmobs:capsid",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/capsid",
+            "text": "Kill an Enderiophage and recieve a capsid."
+        }
+    ]
+}

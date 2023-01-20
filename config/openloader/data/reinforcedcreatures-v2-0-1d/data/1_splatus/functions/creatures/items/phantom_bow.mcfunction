@@ -1,0 +1,1 @@
+give @s minecraft:bow{CreaturesPhantomBow:1,CustomModelData:27014,display:{Name:'{"translate":"Phantom Bow","italic":false,"color": "#685cb8"}',Lore:['{"translate":"Reinforced Creatures","color":"#676e75","italic": true}']}}

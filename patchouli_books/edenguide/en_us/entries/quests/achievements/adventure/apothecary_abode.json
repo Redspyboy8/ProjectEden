@@ -1,0 +1,13 @@
+{
+    "name": "The Apothecary's Abode",
+    "icon": "nethersdelight:crimson_fungus_colony",
+    "category": "patchouli:quests/achievements/adventure",
+    "advancement": "eden:prograss/map_check",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:apothecary_abode",
+            "text": "Enter the Apothecary Abode, a vivid and magical yet twisted building among the trees."
+        }
+    ]
+}

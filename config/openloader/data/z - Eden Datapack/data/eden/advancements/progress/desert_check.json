@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "desert": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biome": "minecraft:desert"
+          }
+        }
+      }
+    }
+  },  
+  "requirements": [
+    [
+      "desert"
+    ]
+  ]
+}

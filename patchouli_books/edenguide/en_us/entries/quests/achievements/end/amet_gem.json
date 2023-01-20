@@ -1,0 +1,15 @@
+{
+    "name": "Crystals in the Sky",
+    "icon": "byg:ametrine_gems",
+    "category": "patchouli:quests/achievements/end",
+    "advancement": "minecraft:end/root",
+    "entry_color": "A020F0",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "eden:achievements/obtain_amet_gems",
+            "text": "Travel to the Viscal Isles and obtain some Ametrine Gems."
+        }
+    ]
+}
+

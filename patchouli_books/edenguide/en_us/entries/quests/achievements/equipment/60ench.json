@@ -1,0 +1,13 @@
+{
+    "name": "Status Quo Crusher",
+    "icon": "create:experience_nugget",
+    "advancement": "apotheosis:enchanting/enchanter",
+    "category": "patchouli:quests/achievements/equipment",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "apotheosis:enchanting/60ench",
+            "text": "Enchant an item at level 60 or higher."
+        }
+    ]
+}

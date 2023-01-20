@@ -1,0 +1,13 @@
+{
+    "name": "Decaying Glory",
+    "icon": "minecraft:mossy_stone_bricks",
+    "advancement": "repurposed_structures:fortress_jungle",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "repurposed_structures:fortress_jungle",
+            "text": "Enter a Jungle Fortress."
+        }
+    ]
+}

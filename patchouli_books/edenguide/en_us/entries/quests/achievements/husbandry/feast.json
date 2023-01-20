@@ -1,0 +1,13 @@
+{
+    "name": "Save Some for Me!",
+    "icon": "farmersdelight:roast_chicken_block",
+    "category": "patchouli:quests/achievements/husbandry",
+    "advancement": "minecraft:husbandry/plant_seed",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "farmersdelight:main/place_feast",
+            "text": "Place down a meal big enough to be shared."
+        }
+    ]
+}

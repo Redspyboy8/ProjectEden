@@ -1,0 +1,12 @@
+{
+    "name": "The Iron Knight",
+    "icon": "mowziesmobs:wrought_helmet",
+    "category": "patchouli:quests/achievements/wilds",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "mowziesmobs:kill_ferrous_wroughtnaut",
+            "text": "Defeat a Ferrous Wroughtnaut."
+        }
+    ]
+}

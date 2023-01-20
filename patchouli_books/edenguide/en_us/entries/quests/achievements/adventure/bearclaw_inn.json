@@ -1,0 +1,13 @@
+{
+    "name": "Bearclaw Inn",
+    "icon": "alexsmobs:bear_fur",
+    "advancement": "eden:progress/map_check",
+    "category": "patchouli:quests/achievements/adventure",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "idas:bearclaw_inn",
+            "text": "Enter the Bearclaw inn, an inn for weary travellers."
+        }
+    ]
+}

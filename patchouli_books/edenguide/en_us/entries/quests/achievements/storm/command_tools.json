@@ -1,0 +1,16 @@
+{
+    "name": "Silver Lining",
+    "icon": "witherstormmod:command_block_sword",
+    "category": "patchouli:quests/achievements/storm",
+    "entry_color": "c01e96",
+    "priority": true,
+    "sortnum": -2,
+    "advancement": "witherstormmod:main/infinite_potential",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "witherstormmod:main/silver_lining",
+            "text": "Combine a Diamond tool with a Command Block Book in a Smithing Table and obtain a Command Block Tool."
+        }
+    ]
+}

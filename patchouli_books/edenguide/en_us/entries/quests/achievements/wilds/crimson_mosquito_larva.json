@@ -1,0 +1,14 @@
+{
+    "name": "Pest Control",
+    "icon": "alexsmobs:mosquito_larva",
+    "category": "patchouli:quests/achievements/wilds",
+    "entry_color": "FF0000",
+    "advancement": "alexsmobs:alexsmobs/root",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "trigger": "alexsmobs:alexsmobs/crimson_mosquito_larva",
+            "text": "Obtain a sickly Crimson Mosquito Larva."
+        }
+    ]
+}
