@@ -1,0 +1,20 @@
+{
+    "name": "Lead",
+    "icon": "oreganized:raw_lead",
+    "category": "patchouli:resources",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "oreganized:lead_ingot",
+            "link_recipe": true,
+            "text": "Lead can be found either deep underground or on the surface in boulders. Heavy and toxic, lead can be used to create heavy armors or toxic weaponry. Don't eat while handling Lead."
+        }, 
+        {
+            "type": "patchouli:spotlight",
+            "item": "oreganized:molten_lead_bucket",
+            "link_recipe": true,
+            "text": "Lead blocks can me melted down in a cauldron above a heat source. This simi-liquid will fall extremly slowly if placed, and harshly burns anything it touches. Standing on it with iron boots will allow you to stand on top unscathed."
+        }
+    ]
+}

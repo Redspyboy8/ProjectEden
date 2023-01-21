@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = D:/Other Games/ATLauncher/ATLauncher/instances/Minecraft1182withForge/saves/Super Mario World
+}
+
