@@ -32,6 +32,7 @@ loot.modifiers.removeByName("endrem:minecraft/inject/entities/witch"); //Removed
 loot.modifiers.removeByName("ars_nouveau:dungeon_loot");
 
 loot.modifiers.removeByName("delightful:acorn_from_natural_decoration");
+loot.modifiers.removeByName("delightful:acorn");
  
 
 //This ensures that these eyes can only be obtained via craftweaker-defined loot conditions
