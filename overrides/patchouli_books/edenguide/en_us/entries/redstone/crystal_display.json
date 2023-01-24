@@ -8,7 +8,7 @@
             "item": "supplementaries:crystal_display",
             "title": "Crystal Display",
             "link_recipe": true,
-            "text": "The Crystal Display can be used to display the specific power of redstone from 0-15. Pairs quite well with a $(I:ID:relayer)Relayer.$()"
+            "text": "The Crystal Display can be used to display the specific power of redstone from 0-15. Pairs quite well with a $(I:ID:patchouli:redstone/relayer)Relayer.$()"
         }, 
         {
             "type": "patchouli:crafting", 
