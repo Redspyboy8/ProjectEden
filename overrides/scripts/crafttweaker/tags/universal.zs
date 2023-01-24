@@ -185,7 +185,7 @@ for itemDef in tconstructItemList {
         <tag:items:forge:heads>.contains(tconItem) | 
         <tag:items:tconstruct:congealed_slime>.contains(tconItem) | 
         <tag:items:tconstruct:slime_block>.contains(tconItem) | 
-        <tag:items:tconstruct:tables>.contains(tconItem) | 
+        (<tag:items:tconstruct:tables>.contains(tconItem) & !<tag:items:forge:workbenches>.contains(tconItem)) | 
         <item:tconstruct:bloodshroom_button>.contains(tconItem) | 
         <tag:items:forge:slimeballs>.contains(tconItem) | 
         <tag:items:tconstruct:parts>.contains(tconItem) | 

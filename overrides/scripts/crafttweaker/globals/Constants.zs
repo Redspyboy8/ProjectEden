@@ -5,6 +5,7 @@ import crafttweaker.api.item.IItemStack;
 
 
 public class Constants {
+    //List of items that are not available in-ggame
     public static val disabledItem as IItemStack[] = [
         <item:endrem:witch_pupil>,
         <item:endrem:undead_soul>,
@@ -25,7 +26,7 @@ public class Constants {
         <item:meetyourfight:fossil_bait>,
         <item:meetyourfight:haunted_bell>,
         <item:meetyourfight:devils_ante>,
-        <item:buddycards:buddysteel_helmet>,
+        <item:buddycards:buddysteel_helmet>, //Buddysteel gear to be removed due to not really having a purpose
         <item:buddycards:buddysteel_chestplate>,
         <item:buddycards:buddysteel_leggings>,
         <item:buddycards:buddysteel_boots>,
@@ -37,6 +38,7 @@ public class Constants {
         <item:warden_and_sculk:recovery_compass>,
         <item:undead_expansion:creeper_husk>,
         <item:undead_expansion:impact_grenade>,
-        <item:witherstormmod:super_tnt>
+        <item:witherstormmod:super_tnt>, //Disabled due to bug with Valkreian ships
+        <item:tconstruct:crafting_station> //Disabled until RecipeStages crash is fixed
     ];
 }
