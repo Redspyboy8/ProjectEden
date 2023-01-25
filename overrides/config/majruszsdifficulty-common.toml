@@ -36,7 +36,7 @@
 	#Animals (wolfs and from other mods), zombies and spiders may inflict bleeding.
 	[GameModifiers.BiteBleeding]
 		#Specifies whether this game modifier is enabled.
-		is_enabled = true
+		is_enabled = false
 		#Chance of this to happen.
 		#Range: 0.0 ~ 1.0
 		chance = 0.05
@@ -73,7 +73,7 @@
 	#Cactus damage may inflict bleeding.
 	[GameModifiers.CactusBleeding]
 		#Specifies whether this game modifier is enabled.
-		is_enabled = true
+		is_enabled = false
 		#Chance of this to happen.
 		#Range: 0.0 ~ 1.0
 		chance = 0.5
@@ -154,7 +154,7 @@
 		scaled_by_crd = true
 		#Minimum game stage required for that to happen.
 		#Allowed Values: NORMAL, EXPERT, MASTER
-		minimum_stage = "NORMAL"
+		minimum_stage = "EXPERT"
 
 	#Creeper may spawn with negative effects applied.
 	[GameModifiers.CreeperSpawnDebuffed]
@@ -633,7 +633,7 @@
 	#All sharp items (tools, shears etc.) may inflict bleeding.
 	[GameModifiers.SharpToolsBleeding]
 		#Specifies whether this game modifier is enabled.
-		is_enabled = true
+		is_enabled = false
 		#Chance of this to happen.
 		#Range: 0.0 ~ 1.0
 		chance = 0.0
