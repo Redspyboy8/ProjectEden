@@ -1,3 +1,4 @@
+craftingTable.removeByName("tiab:time_in_a_bottle");
 craftingTable.addShaped("time_in_a_bottle",<item:tiab:time_in_a_bottle>, [
     [<item:minecraft:gold_ingot>,<item:minecraft:gold_ingot>,<item:minecraft:gold_ingot>],
     [<item:minecraft:diamond>,<item:endrem:old_eye>.reuse(),<item:minecraft:diamond>],
