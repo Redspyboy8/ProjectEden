@@ -1,0 +1,1 @@
+craftingTable.addShapeless("edenguide",<item:patchouli:guide_book>.withTag({"patchouli:book": "patchouli:edenguide" as string}), [<item:minecraft:book>,<item:minecraft:dirt>]);

@@ -17,6 +17,12 @@ loot.modifiers.register(
     CommonLootModifiers.replaceWith(<item:undead_expansion:creeper_husk>, <item:savage_and_ravage:creeper_spores>)
 );
 
+loot.modifiers.register(
+    "alexbanana_to_bananarama",
+     LootConditions.none(),
+     CommonLootModifiers.replaceWith(<item:alexsmobs:banana>,<item:neapolitan:banana>));
+
+
 loot.modifiers.removeByName("endrem:minecraft/inject/chests/nether_bridge"); //Reward for beating Ignis
 loot.modifiers.removeByName("endrem:minecraft/inject/entities/skeleton_horse"); //Undead Soul Removed. Reward for Beating Swampjaw
 loot.modifiers.removeByName("endrem:minecraft/inject/chests/abandoned_mineshaft"); //Found in IDAS Mines
@@ -33,6 +39,8 @@ loot.modifiers.removeByName("ars_nouveau:dungeon_loot");
 
 loot.modifiers.removeByName("delightful:acorn_from_natural_decoration");
 loot.modifiers.removeByName("delightful:acorn");
+
+loot.modifiers.removeByName("alexsmobs:banana_drop");
  
 
 //This ensures that these eyes can only be obtained via craftweaker-defined loot conditions
@@ -43,3 +51,6 @@ loot.modifiers.register("no_oldeye", LootConditions.none(), CommonLootModifiers.
 loot.modifiers.register("no_nethereye", LootConditions.none(), CommonLootModifiers.remove(<item:endrem:nether_eye>));
 loot.modifiers.register("no_rogueeye", LootConditions.none(), CommonLootModifiers.remove(<item:endrem:rogue_eye>));
 loot.modifiers.register("no_magiceye", LootConditions.none(), CommonLootModifiers.remove(<item:endrem:magical_eye>));
+
+
+

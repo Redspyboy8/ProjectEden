@@ -1,0 +1,3 @@
+import crafttweaker.api.recipe.Brewing;
+brewing.addRecipe(<item:minecraft:potion>.withTag({Potion: "feathers:endurance_potion" as string}), <item:oreganized:netherite_nugget>, <item:minecraft:potion>.withTag({Potion: "minecraft:awkward" as string}));
+brewing.addRecipe(<item:minecraft:potion>.withTag({Potion: "feathers:energized_potion" as string}), <item:oreganized:electrum_nugget>, <item:minecraft:potion>.withTag({Potion: "minecraft:awkward" as string}));
