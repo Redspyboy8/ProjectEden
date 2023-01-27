@@ -30,6 +30,48 @@
         },
         {
             "type": "patchouli:spotlight",
+            "item": "neapolitan:strawberries",
+            "link_recipe": true,
+            "text": "Strawberries can be fround growing in bushels in plains biomes. Strawberries grow on farmland. Strawberries are the classic go-to berry for any baker with good taste. You can also find White Strawberries if they grow high enough."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "neapolitan:mint_leaves",
+            "link_recipe": true,
+            "text": "Mint can be found growing in low light levels. Mint can be planted directly on dirt up to 4 times. The fresh, minty flavor of mint foods grants Berserking, an effect that increases your attack power for every mob killed while in effect."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "neapolitan:vanilla_pods",
+            "link_recipe": true,
+            "text": "Vanilla can be found growing in Savannah biomes. Vanilla can be planted directly on dirt. Vanilla vines let out toxic fumes that poison on contact, but can be cooked out for some Dried Vanilla. Eating vanilla foods will give you a special scent that protects from adverse effects."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "neapolitan:banana_bunch",
+            "link_recipe": true,
+            "text": "Bananas can be found growing in jungles and beaches, often surrounded by hungry Chimpanzees. Eating a banana will temporarily grant the ability to climb walls. Adored by Chimps and Apes alike."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "neapolitan:adzuki_beans",
+            "link_recipe": true,
+            "text": "Adzuki Beans can be found growing in forests. Adzuki beans can be planted directly into dirt. While Adzuki beans are relatively difficult to cultivate, eating Adzuki Bean foods will temporarily scare mobs away, preventing any from attacking."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "sprout:peanut",
+            "link_recipe": true,
+            "text": "Peanuts can be found growing in savannas or traded by villagers who love animals. Peanuts grow on farmland. Can be made into peanut butter. Is also absolutely adored by certain tiny elephants."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "delightful:salmonberries",
+            "link_recipe": true,
+            "text": "Salmonberries grow pretty much everywhere. Salmonberries can be planted on farmland. While seemingly unremarkable, salmonberries are able to be grown very quickly and in large quantities."
+        },
+        {
+            "type": "patchouli:spotlight",
             "item": "farmersrespite:green_tea_leaves",
             "link_recipe": true,
             "text": "Tea Bushes can be found in forests. Tea Bushes grow on farmland. Tea Bushes will yield different types of leaves depending on what stage they are harvested. Different leaves will give different effects when brewed at a Tea Kettle."
@@ -39,12 +81,6 @@
             "item": "supplementaries:flax",
             "link_recipe": true,
             "text": "Flax can be found growing rarely by rivers. Flax grows on farmland. While not desirable in the slightest for cooking, Flax is still a very useful plant. Can be crafted directly into string or used to make Ropes and Sacks."
-        },
-                {
-            "type": "patchouli:spotlight",
-            "item": "sprout:peanut",
-            "link_recipe": true,
-            "text": "Peanuts can be found growing in savannas or traded by villagers who love animals. Peanuts grow on farmland. Can be made into peanut butter. Is also absolutely adored by certain tiny elephants."
         }
         
     ]

@@ -141,6 +141,36 @@
         "block": "farmersrespite:small_tea_bush"
       }
     },
+    "adzuki": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "neapolitan:adzuki_soil"
+      }
+    },
+    "vanilla": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "neapolitan:vanilla_vine"
+      }
+    },
+    "mint": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "neapolitan:mint"
+      }
+    },
+    "strawberry": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "neapolitan:strawberry_bush"
+      }
+    },
+    "salmonberry": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "delightful:salmonberry_bush"
+      }
+    },
     "buddy": {
       "trigger": "minecraft:placed_block",
       "conditions": {
@@ -217,6 +247,21 @@
     ],
     [
       "tea"
+    ],
+    [
+      "adzuki"
+    ],
+    [
+      "vanilla"
+    ],
+    [
+      "mint"
+    ],
+    [
+      "strawberry"
+    ],
+    [
+      "salmonberry"
     ],
     [
       "buddy"
