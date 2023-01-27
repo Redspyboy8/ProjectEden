@@ -39,6 +39,9 @@ public class Constants {
         <item:undead_expansion:creeper_husk>,
         <item:undead_expansion:impact_grenade>,
         <item:witherstormmod:super_tnt>, //Disabled due to bug with Valkreian ships
-        <item:tconstruct:crafting_station> //Disabled until RecipeStages crash is fixed
+        <item:tconstruct:crafting_station>, //Disabled until RecipeStages crash is fixed
+        <item:alexsmobs:banana>,
+        <item:neapolitan:milk_bottle>,
+        <item:create:bar_of_chocolate> 
     ];
 }
