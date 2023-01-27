@@ -2,6 +2,7 @@
     "name": "Pharoah's Pyramid",
     "icon": "alexsmobs:guster_eye",
     "advancement": "eden:progress/desert_check",
+    "turnin": "endrem:main/old_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

@@ -2,6 +2,7 @@
     "name": "Piglin's Prize",
     "icon": "minecraft:golden_axe",
     "advancement": "minecraft:nether/distract_piglin",
+    "turnin": "endrem:main/cursed_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

@@ -3,6 +3,7 @@
     "icon": "omnis:vindicator_axe",
     "advancement": "minecraft:adventure/voluntary_exile",
     "category": "patchouli:end",
+    "turnin": "endrem:main/corrupted_eye",
     "sortnum": 0,
     "pages": [
         {

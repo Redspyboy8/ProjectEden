@@ -2,6 +2,7 @@
     "name": "Tinkerer's Tombtone",
     "icon": "warden_and_sculk:echo_shard",
     "advancement": "eden:progress/ancient_city_check",
+    "turnin": "endrem:main/rogue_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

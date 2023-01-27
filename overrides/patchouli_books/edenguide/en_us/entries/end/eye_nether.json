@@ -2,6 +2,7 @@
     "name": "Champion's Call",
     "icon": "cataclysm:ignitium_helmet",
     "advancement": "eden:progress/ignis_check",
+    "turnin": "endrem:main/nether_eye",
     "entry_color": "FFD700",
     "category": "patchouli:end",
     "sortnum": 1,

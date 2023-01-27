@@ -2,6 +2,7 @@
     "name": "Mother's Maze",
     "icon": "aquamirae:abyssal_amethyst",
     "advancement": "aquamirae:adventure/find_ice_maze",
+    "turnin": "endrem:main/cold_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

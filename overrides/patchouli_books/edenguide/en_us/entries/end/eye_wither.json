@@ -2,6 +2,7 @@
     "name": "Wither's Wait",
     "icon": "minecraft:wither_skeleton_skull",
     "advancement": "eden:progress/wither_skull_check",
+    "turnin": "endrem:main/wither_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

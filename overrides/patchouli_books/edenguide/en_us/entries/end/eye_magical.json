@@ -2,6 +2,7 @@
     "name": "Trickster's Theatre",
     "icon": "conjurer_illager:conjurer_hat",
     "advancement": "eden:progress/dark_forest_check",
+    "turnin": "endrem:main/magical_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

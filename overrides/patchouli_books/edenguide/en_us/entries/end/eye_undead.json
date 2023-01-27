@@ -2,6 +2,7 @@
     "name": "Undead's Ultimatum",
     "icon": "undead_expansion:rotting_arm",
     "advancement": "eden:progress/cloth_check",
+    "turnin": "endrem:main/undead_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

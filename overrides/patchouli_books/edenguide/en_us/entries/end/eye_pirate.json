@@ -2,6 +2,7 @@
     "name": "Pirate's Plight",
     "icon": "aquamirae:three_bolt_helmet",
     "advancement": "minecraft:adventure/trade",
+    "turnin": "endrem:main/black_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

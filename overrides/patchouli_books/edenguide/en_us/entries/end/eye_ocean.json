@@ -2,6 +2,7 @@
     "name": "Ocean's Oasis",
     "icon": "seadwellers:broken_trident",
     "advancement": "eden:progress/deep_ocean_check",
+    "turnin": "endrem:main/guardian_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [

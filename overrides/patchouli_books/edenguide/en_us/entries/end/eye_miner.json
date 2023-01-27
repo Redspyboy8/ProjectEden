@@ -2,6 +2,7 @@
     "name": "Ancient's Armory",
     "icon": "omnis:haunted_spell_blade",
     "advancement": "eden:progress/adept_miner_check",
+    "turnin": "endrem:main/lost_eye",
     "category": "patchouli:end",
     "sortnum": 0,
     "pages": [
