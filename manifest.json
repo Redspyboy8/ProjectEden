@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Project Eden ",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Redspyboy8",
   "files": [
     {
@@ -1042,6 +1042,16 @@
     {
       "projectID": 581495,
       "fileID": 4354939,
+      "required": true
+    },
+    {
+      "projectID": 382016,
+      "fileID": 3881528,
+      "required": true
+    },
+    {
+      "projectID": 442719,
+      "fileID": 3907766,
       "required": true
     }
   ],
