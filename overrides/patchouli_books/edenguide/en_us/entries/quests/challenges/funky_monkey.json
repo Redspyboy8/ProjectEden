@@ -1,0 +1,13 @@
+{
+    "name": "Brass Monkey",
+    "icon": "neapolitan:bananarrow",
+    "sortnum": 1,
+    "entry_color": "1F00FF",
+    "category": "patchouli:quests/challenges",
+    "pages": [
+        {
+            "type": "patchouli:quest",
+            "text": "Use Bannanarrows to command a Funky Monkey army against a raid."
+        }
+    ]
+}
